@@ -4,6 +4,7 @@
 \usepackage{graphicx} % images
 \usepackage{mathptmx} % Times New Roman
 \usepackage{multicol}
+\usepackage{hyperref}
 
 \usepackage[noshellescape, generate]{abc}
 
@@ -12,7 +13,7 @@
 \vspace*{5\baselineskip}
 \centerline{\Huge\textbf{OUCB Tunebook}}
 \vspace{\baselineskip}
-\centerline{\Large 2026 Edition}
+\centerline{\Large `25-`26}
 \vspace{2\baselineskip}
 \centerline{Curated by Matt Lenahan and Charlotte Reed}
 \clearpage
@@ -22,12 +23,23 @@
 \end{multicols}
 \clearpage
 
+\centerline{\Large\textbf{Resources}}
+\begin{itemize}
+    \item \url{thesession.org} has the dots for every tune under the sun---if you ask for the name of any tune at a session, you'll be able to find it here
+    \item Foinn Seisi\`un 1, 2, and 3, albums of bog-standard Irish session tunes (plus a few odd ones!)
+\end{itemize}
+
+
+\clearpage
+
 % abcm2ps parameters
 % -O = tells abcm2ps to take the file name from the input abc file
 % -s xx is the scale, default 0.75
 % -d xxpt is the separation between staves, default 46pt
 
+%
 % 32 bar jigs
+%
 
 \centerline{\Large\textbf{The Classics}}
 \centerline{32 bar jigs}
@@ -85,7 +97,9 @@
 \abcinput[program={abcm2ps -O = -s 0.7}]{mcgoldricks}
 \clearpage
 
+%
 % 48 bar jigs
+%
 
 \centerline{\Large\textbf{Random Notes in the Kitchen}}
 \centerline{48 bar jigs}
@@ -97,7 +111,7 @@
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-random}
 \clearpage
 
-\centerline{\Large\textbf{Merrily Kiss Tommy Peoples}}
+\centerline{\Large\textbf{Who Kissed Tommy Peoples?}}
 \centerline{48 bar jigs}
 \vspace{2\baselineskip}
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{merrily-kiss-the-quaker}
@@ -105,13 +119,19 @@
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{grainnes}
 \clearpage
 
-\centerline{\Large\textbf{Banish Dusty Cats}}
+\centerline{\Large\textbf{Misfortune}}
 \centerline{48 bar jigs}
 \vspace{2\baselineskip}
-\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{banish-misfortune}
-\vspace{2\baselineskip}
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{dusty-windowsills}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{banish-misfortune}
 \clearpage
+
+\centerline{\Large\textbf{The Cat in the Well}}
+\centerline{48 bar jigs}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-wishing-well}
+\vspace{2\baselineskip}
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-cats-meow}
 \clearpage
 
@@ -123,14 +143,55 @@
 \abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{kadril-van-mechelen}
 \clearpage
 
-% Hornpipes
+%
+% 32 bar reels
+%
 
+\centerline{\Large\textbf{Toria's}}
+\centerline{32 bar reels}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7}]{dancing-in-allihies}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7}]{torias-50th}
+\clearpage
+
+%
+% Polkas
+%
+
+%
+% 2-time bourees
+%
+
+%
+% Hornpipes
+%
+
+%
 % Marches
+%
 
 \centerline{\Large\textbf{James Brown's}}
 \centerline{March}
 \vspace{2\baselineskip}
 \abcinput[program={abcm2ps -O = -s 0.7}]{james-browns}
+\vspace{4\baselineskip}
+
+\centerline{\Large\textbf{Marche du Mont Saint-Louis}}
+\centerline{March}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7}]{marche-du-mont-saint-louis}
+\clearpage
+
+\centerline{\Large\textbf{Scotland the Brave}}
+\centerline{Marches}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{scotland-the-brave}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-battle-of-waterloo}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{willie-andersons-farewell-to-dalharn}
+\clearpage
 
 % Waltzes
 

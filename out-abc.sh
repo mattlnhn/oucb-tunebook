@@ -67,12 +67,15 @@ epstopdf merrily-kiss-the-quaker.eps
 abcm2ps -O = -s 0.7 -d 40pt   grainnes.abc 
 ps2eps -f grainnes.ps
 epstopdf grainnes.eps
-abcm2ps -O = -s 0.7 -d 40pt   banish-misfortune.abc 
-ps2eps -f banish-misfortune.ps
-epstopdf banish-misfortune.eps
 abcm2ps -O = -s 0.7 -d 40pt   dusty-windowsills.abc 
 ps2eps -f dusty-windowsills.ps
 epstopdf dusty-windowsills.eps
+abcm2ps -O = -s 0.7 -d 40pt   banish-misfortune.abc 
+ps2eps -f banish-misfortune.ps
+epstopdf banish-misfortune.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-wishing-well.abc 
+ps2eps -f the-wishing-well.ps
+epstopdf the-wishing-well.eps
 abcm2ps -O = -s 0.7 -d 40pt   the-cats-meow.abc 
 ps2eps -f the-cats-meow.ps
 epstopdf the-cats-meow.eps
@@ -82,6 +85,24 @@ epstopdf den-toppede-hone-fra-vensyssel.eps
 abcm2ps -O = -s 0.7 -d 40pt   kadril-van-mechelen.abc 
 ps2eps -f kadril-van-mechelen.ps
 epstopdf kadril-van-mechelen.eps
+abcm2ps -O = -s 0.7   dancing-in-allihies.abc 
+ps2eps -f dancing-in-allihies.ps
+epstopdf dancing-in-allihies.eps
+abcm2ps -O = -s 0.7   torias-50th.abc 
+ps2eps -f torias-50th.ps
+epstopdf torias-50th.eps
 abcm2ps -O = -s 0.7   james-browns.abc 
 ps2eps -f james-browns.ps
 epstopdf james-browns.eps
+abcm2ps -O = -s 0.7   marche-du-mont-saint-louis.abc 
+ps2eps -f marche-du-mont-saint-louis.ps
+epstopdf marche-du-mont-saint-louis.eps
+abcm2ps -O = -s 0.7 -d 40pt   scotland-the-brave.abc 
+ps2eps -f scotland-the-brave.ps
+epstopdf scotland-the-brave.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-battle-of-waterloo.abc 
+ps2eps -f the-battle-of-waterloo.ps
+epstopdf the-battle-of-waterloo.eps
+abcm2ps -O = -s 0.7 -d 40pt   willie-andersons-farewell-to-dalharn.abc 
+ps2eps -f willie-andersons-farewell-to-dalharn.ps
+epstopdf willie-andersons-farewell-to-dalharn.eps
