@@ -91,6 +91,21 @@ epstopdf dancing-in-allihies.eps
 abcm2ps -O = -s 0.7   torias-50th.abc 
 ps2eps -f torias-50th.ps
 epstopdf torias-50th.eps
+abcm2ps -O = -s 0.7   stomach-steinway-man.abc 
+ps2eps -f stomach-steinway-man.ps
+epstopdf stomach-steinway-man.eps
+abcm2ps -O = -s 0.7   anne-laceys.abc 
+ps2eps -f anne-laceys.ps
+epstopdf anne-laceys.eps
+abcm2ps -O = -s 0.7 -d 40pt   bourree-de-montfort.abc 
+ps2eps -f bourree-de-montfort.ps
+epstopdf bourree-de-montfort.eps
+abcm2ps -O = -s 0.7 -d 40pt   chassepain.abc 
+ps2eps -f chassepain.ps
+epstopdf chassepain.eps
+abcm2ps -O = -s 0.7 -d 40pt   bourree-a-malochet.abc 
+ps2eps -f bourree-a-malochet.ps
+epstopdf bourree-a-malochet.eps
 abcm2ps -O = -s 0.7   james-browns.abc 
 ps2eps -f james-browns.ps
 epstopdf james-browns.eps
