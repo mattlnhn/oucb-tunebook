@@ -49,6 +49,12 @@ epstopdf myras.eps
 abcm2ps -O = -s 0.7   willie-colemans.abc 
 ps2eps -f willie-colemans.ps
 epstopdf willie-colemans.eps
+abcm2ps -O = -s 0.7   the-mist-covered-mountain.abc 
+ps2eps -f the-mist-covered-mountain.ps
+epstopdf the-mist-covered-mountain.eps
+abcm2ps -O = -s 0.7   the-scotsman-over-the-border.abc 
+ps2eps -f the-scotsman-over-the-border.ps
+epstopdf the-scotsman-over-the-border.eps
 abcm2ps -O = -s 0.7   mcgoldricks.abc 
 ps2eps -f mcgoldricks.ps
 epstopdf mcgoldricks.eps
@@ -97,6 +103,12 @@ epstopdf stomach-steinway-man.eps
 abcm2ps -O = -s 0.7   anne-laceys.abc 
 ps2eps -f anne-laceys.ps
 epstopdf anne-laceys.eps
+abcm2ps -O = -s 0.7   hommage-a-edmond-parizeau.abc 
+ps2eps -f hommage-a-edmond-parizeau.ps
+epstopdf hommage-a-edmond-parizeau.eps
+abcm2ps -O = -s 0.7   hommage-a-philippe-bruneau.abc 
+ps2eps -f hommage-a-philippe-bruneau.ps
+epstopdf hommage-a-philippe-bruneau.eps
 abcm2ps -O = -s 0.7 -d 40pt   bourree-de-montfort.abc 
 ps2eps -f bourree-de-montfort.ps
 epstopdf bourree-de-montfort.eps
@@ -106,6 +118,9 @@ epstopdf chassepain.eps
 abcm2ps -O = -s 0.7 -d 40pt   bourree-a-malochet.abc 
 ps2eps -f bourree-a-malochet.ps
 epstopdf bourree-a-malochet.eps
+abcm2ps -O = -s 0.7   mister-moores-hornpipe.abc 
+ps2eps -f mister-moores-hornpipe.ps
+epstopdf mister-moores-hornpipe.eps
 abcm2ps -O = -s 0.7   james-browns.abc 
 ps2eps -f james-browns.ps
 epstopdf james-browns.eps
