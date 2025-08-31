@@ -109,6 +109,12 @@ epstopdf hommage-a-edmond-parizeau.eps
 abcm2ps -O = -s 0.7   hommage-a-philippe-bruneau.abc 
 ps2eps -f hommage-a-philippe-bruneau.ps
 epstopdf hommage-a-philippe-bruneau.eps
+abcm2ps -O = -s 0.7   good-morning-to-your-nightcap.abc 
+ps2eps -f good-morning-to-your-nightcap.ps
+epstopdf good-morning-to-your-nightcap.eps
+abcm2ps -O = -s 0.7   maggies-pancakes.abc 
+ps2eps -f maggies-pancakes.ps
+epstopdf maggies-pancakes.eps
 abcm2ps -O = -s 0.7 -d 40pt   bourree-de-montfort.abc 
 ps2eps -f bourree-de-montfort.ps
 epstopdf bourree-de-montfort.eps
