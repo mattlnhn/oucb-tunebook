@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.29)  31 AUG 2025 17:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.29)  8 SEP 2025 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -385,32 +385,32 @@ Package hyperref Info: Link coloring OFF on input line 11.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 56.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 47.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 56.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 47.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 56.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 47.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 56.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 47.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 56.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 
 
 [3
@@ -419,12 +419,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 <out-on-the-ocean.pdf, id=25, 495.8525pt x 224.84pt>
 File: out-on-the-ocean.pdf Graphic file (type pdf)
 <use out-on-the-ocean.pdf>
-Package pdftex.def Info: out-on-the-ocean.pdf  used on input line 82.
+Package pdftex.def Info: out-on-the-ocean.pdf  used on input line 91.
 (pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
 <tripping-up-the-stairs.pdf, id=26, 495.8525pt x 222.8325pt>
 File: tripping-up-the-stairs.pdf Graphic file (type pdf)
 <use tripping-up-the-stairs.pdf>
-Package pdftex.def Info: tripping-up-the-stairs.pdf  used on input line 84.
+Package pdftex.def Info: tripping-up-the-stairs.pdf  used on input line 93.
 (pdftex.def)             Requested size: 483.69687pt x 217.3713pt.
 
 
@@ -434,12 +434,12 @@ Package pdftex.def Info: tripping-up-the-stairs.pdf  used on input line 84.
 <the-rose-in-the-heather.pdf, id=67, 495.8525pt x 233.87375pt>
 File: the-rose-in-the-heather.pdf Graphic file (type pdf)
 <use the-rose-in-the-heather.pdf>
-Package pdftex.def Info: the-rose-in-the-heather.pdf  used on input line 86.
+Package pdftex.def Info: the-rose-in-the-heather.pdf  used on input line 95.
 (pdftex.def)             Requested size: 483.69687pt x 228.14194pt.
 <the-spotted-dog.pdf, id=68, 495.8525pt x 224.84pt>
 File: the-spotted-dog.pdf Graphic file (type pdf)
 <use the-spotted-dog.pdf>
-Package pdftex.def Info: the-spotted-dog.pdf  used on input line 88.
+Package pdftex.def Info: the-spotted-dog.pdf  used on input line 97.
 (pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
 
 
@@ -449,12 +449,12 @@ Package pdftex.def Info: the-spotted-dog.pdf  used on input line 88.
 <the-first-pint.pdf, id=109, 495.8525pt x 233.87375pt>
 File: the-first-pint.pdf Graphic file (type pdf)
 <use the-first-pint.pdf>
-Package pdftex.def Info: the-first-pint.pdf  used on input line 94.
+Package pdftex.def Info: the-first-pint.pdf  used on input line 103.
 (pdftex.def)             Requested size: 483.69687pt x 228.14194pt.
 <joe-derranes.pdf, id=110, 495.8525pt x 229.85875pt>
 File: joe-derranes.pdf Graphic file (type pdf)
 <use joe-derranes.pdf>
-Package pdftex.def Info: joe-derranes.pdf  used on input line 96.
+Package pdftex.def Info: joe-derranes.pdf  used on input line 105.
 (pdftex.def)             Requested size: 483.69687pt x 224.22534pt.
 
 
@@ -464,12 +464,12 @@ Package pdftex.def Info: joe-derranes.pdf  used on input line 96.
 <ninas.pdf, id=152, 495.8525pt x 235.88126pt>
 File: ninas.pdf Graphic file (type pdf)
 <use ninas.pdf>
-Package pdftex.def Info: ninas.pdf  used on input line 98.
+Package pdftex.def Info: ninas.pdf  used on input line 107.
 (pdftex.def)             Requested size: 483.69687pt x 230.10027pt.
 <the-picc-line.pdf, id=153, 495.8525pt x 277.035pt>
 File: the-picc-line.pdf Graphic file (type pdf)
 <use the-picc-line.pdf>
-Package pdftex.def Info: the-picc-line.pdf  used on input line 100.
+Package pdftex.def Info: the-picc-line.pdf  used on input line 109.
 (pdftex.def)             Requested size: 483.69687pt x 270.2454pt.
 
 
@@ -479,12 +479,12 @@ Package pdftex.def Info: the-picc-line.pdf  used on input line 100.
 <the-soup-dragon.pdf, id=197, 495.8525pt x 320.19624pt>
 File: the-soup-dragon.pdf Graphic file (type pdf)
 <use the-soup-dragon.pdf>
-Package pdftex.def Info: the-soup-dragon.pdf  used on input line 106.
+Package pdftex.def Info: the-soup-dragon.pdf  used on input line 115.
 (pdftex.def)             Requested size: 483.69687pt x 312.34886pt.
 <the-lisnagun.pdf, id=198, 495.8525pt x 276.03125pt>
 File: the-lisnagun.pdf Graphic file (type pdf)
 <use the-lisnagun.pdf>
-Package pdftex.def Info: the-lisnagun.pdf  used on input line 108.
+Package pdftex.def Info: the-lisnagun.pdf  used on input line 117.
 (pdftex.def)             Requested size: 483.69687pt x 269.26625pt.
 
 
@@ -494,286 +494,685 @@ Package pdftex.def Info: the-lisnagun.pdf  used on input line 108.
 <the-gathering.pdf, id=239, 495.8525pt x 320.19624pt>
 File: the-gathering.pdf Graphic file (type pdf)
 <use the-gathering.pdf>
-Package pdftex.def Info: the-gathering.pdf  used on input line 110.
+Package pdftex.def Info: the-gathering.pdf  used on input line 119.
 (pdftex.def)             Requested size: 483.69687pt x 312.34886pt.
 <the-handsome-young-maidens.pdf, id=240, 495.8525pt x 329.23pt>
 File: the-handsome-young-maidens.pdf Graphic file (type pdf)
 <use the-handsome-young-maidens.pdf>
-Package pdftex.def Info: the-handsome-young-maidens.pdf  used on input line 112.
+Package pdftex.def Info: the-handsome-young-maidens.pdf  used on input line 121.
 (pdftex.def)             Requested size: 483.69687pt x 321.16121pt.
 
 
 [9
 
  <./the-gathering.pdf> <./the-handsome-young-maidens.pdf>]
-<the-rambler.pdf, id=281, 495.8525pt x 226.8475pt>
+<the-rambler.pdf, id=281, 495.8525pt x 215.80624pt>
 File: the-rambler.pdf Graphic file (type pdf)
 <use the-rambler.pdf>
-Package pdftex.def Info: the-rambler.pdf  used on input line 118.
-(pdftex.def)             Requested size: 483.69687pt x 221.2879pt.
-<health-to-the-ladies.pdf, id=282, 495.8525pt x 219.82124pt>
+Package pdftex.def Info: the-rambler.pdf  used on input line 127.
+(pdftex.def)             Requested size: 483.69687pt x 210.51726pt.
+<health-to-the-ladies.pdf, id=282, 495.8525pt x 204.765pt>
 File: health-to-the-ladies.pdf Graphic file (type pdf)
 <use health-to-the-ladies.pdf>
-Package pdftex.def Info: health-to-the-ladies.pdf  used on input line 120.
-(pdftex.def)             Requested size: 483.69687pt x 214.43384pt.
+Package pdftex.def Info: health-to-the-ladies.pdf  used on input line 129.
+(pdftex.def)             Requested size: 483.69687pt x 199.7466pt.
+<rosewood.pdf, id=283, 495.8525pt x 220.825pt>
+File: rosewood.pdf Graphic file (type pdf)
+<use rosewood.pdf>
+Package pdftex.def Info: rosewood.pdf  used on input line 131.
+(pdftex.def)             Requested size: 483.69687pt x 215.413pt.
 
 
 [10
 
- <./the-rambler.pdf> <./health-to-the-ladies.pdf>]
-<rosewood.pdf, id=315, 495.8525pt x 231.86626pt>
-File: rosewood.pdf Graphic file (type pdf)
-<use rosewood.pdf>
-Package pdftex.def Info: rosewood.pdf  used on input line 122.
-(pdftex.def)             Requested size: 483.69687pt x 226.18365pt.
-<myras.pdf, id=316, 495.8525pt x 220.825pt>
+ <./the-rambler.pdf> <./health-to-the-ladies.pdf> <./rosewood.pdf>]
+<feed-the-ducks.pdf, id=330, 495.8525pt x 320.19624pt>
+File: feed-the-ducks.pdf Graphic file (type pdf)
+<use feed-the-ducks.pdf>
+Package pdftex.def Info: feed-the-ducks.pdf  used on input line 137.
+(pdftex.def)             Requested size: 483.69687pt x 312.34886pt.
+<myras.pdf, id=331, 495.8525pt x 220.825pt>
 File: myras.pdf Graphic file (type pdf)
 <use myras.pdf>
-Package pdftex.def Info: myras.pdf  used on input line 124.
+Package pdftex.def Info: myras.pdf  used on input line 139.
 (pdftex.def)             Requested size: 483.69687pt x 215.413pt.
 
 
 [11
 
- <./rosewood.pdf> <./myras.pdf>]
-<willie-colemans.pdf, id=350, 495.8525pt x 218.8175pt>
-File: willie-colemans.pdf Graphic file (type pdf)
-<use willie-colemans.pdf>
-Package pdftex.def Info: willie-colemans.pdf  used on input line 130.
-(pdftex.def)             Requested size: 483.69687pt x 213.4547pt.
-<the-mist-covered-mountain.pdf, id=351, 495.8525pt x 320.19624pt>
+ <./feed-the-ducks.pdf> <./myras.pdf>]
+<the-mist-covered-mountain.pdf, id=366, 495.8525pt x 320.19624pt>
 File: the-mist-covered-mountain.pdf Graphic file (type pdf)
 <use the-mist-covered-mountain.pdf>
-Package pdftex.def Info: the-mist-covered-mountain.pdf  used on input line 132.
+Package pdftex.def Info: the-mist-covered-mountain.pdf  used on input line 145.
 (pdftex.def)             Requested size: 483.69687pt x 312.34886pt.
-<the-scotsman-over-the-border.pdf, id=352, 495.8525pt x 218.8175pt>
+<willie-colemans.pdf, id=367, 495.8525pt x 218.8175pt>
+File: willie-colemans.pdf Graphic file (type pdf)
+<use willie-colemans.pdf>
+Package pdftex.def Info: willie-colemans.pdf  used on input line 147.
+(pdftex.def)             Requested size: 483.69687pt x 213.4547pt.
+<the-scotsman-over-the-border.pdf, id=368, 495.8525pt x 218.8175pt>
 File: the-scotsman-over-the-border.pdf Graphic file (type pdf)
 <use the-scotsman-over-the-border.pdf>
-Package pdftex.def Info: the-scotsman-over-the-border.pdf  used on input line 134.
+Package pdftex.def Info: the-scotsman-over-the-border.pdf  used on input line 149.
 (pdftex.def)             Requested size: 483.69687pt x 213.4547pt.
 
 
 [12
 
- <./willie-colemans.pdf> <./the-mist-covered-mountain.pdf>]
-<mcgoldricks.pdf, id=387, 495.8525pt x 222.8325pt>
+ <./the-mist-covered-mountain.pdf> <./willie-colemans.pdf>]
+<mcgoldricks.pdf, id=402, 495.8525pt x 222.8325pt>
 File: mcgoldricks.pdf Graphic file (type pdf)
 <use mcgoldricks.pdf>
-Package pdftex.def Info: mcgoldricks.pdf  used on input line 136.
+Package pdftex.def Info: mcgoldricks.pdf  used on input line 151.
 (pdftex.def)             Requested size: 483.69687pt x 217.3713pt.
 
 
 [13 <./the-scotsman-over-the-border.pdf> <./mcgoldricks.pdf>]
-<the-pipe-on-the-hob.pdf, id=422, 495.8525pt x 294.09875pt>
-File: the-pipe-on-the-hob.pdf Graphic file (type pdf)
-<use the-pipe-on-the-hob.pdf>
-Package pdftex.def Info: the-pipe-on-the-hob.pdf  used on input line 146.
-(pdftex.def)             Requested size: 483.69687pt x 286.89096pt.
-<the-cook-in-the-kitchen.pdf, id=423, 495.8525pt x 294.09875pt>
-File: the-cook-in-the-kitchen.pdf Graphic file (type pdf)
-<use the-cook-in-the-kitchen.pdf>
-Package pdftex.def Info: the-cook-in-the-kitchen.pdf  used on input line 148.
-(pdftex.def)             Requested size: 483.69687pt x 286.89096pt.
+<i-neer-shall-wean-her.pdf, id=437, 495.8525pt x 205.76875pt>
+File: i-neer-shall-wean-her.pdf Graphic file (type pdf)
+<use i-neer-shall-wean-her.pdf>
+Package pdftex.def Info: i-neer-shall-wean-her.pdf  used on input line 157.
+(pdftex.def)             Requested size: 483.69687pt x 200.72575pt.
+<the-castle.pdf, id=438, 495.8525pt x 207.77625pt>
+File: the-castle.pdf Graphic file (type pdf)
+<use the-castle.pdf>
+Package pdftex.def Info: the-castle.pdf  used on input line 159.
+(pdftex.def)             Requested size: 483.69687pt x 202.68405pt.
+<mcintyres-fancy.pdf, id=439, 495.8525pt x 204.765pt>
+File: mcintyres-fancy.pdf Graphic file (type pdf)
+<use mcintyres-fancy.pdf>
+Package pdftex.def Info: mcintyres-fancy.pdf  used on input line 161.
+(pdftex.def)             Requested size: 483.69687pt x 199.7466pt.
 
 
 [14
 
- <./the-pipe-on-the-hob.pdf> <./the-cook-in-the-kitchen.pdf>]
-<the-random.pdf, id=456, 495.8525pt x 299.1175pt>
-File: the-random.pdf Graphic file (type pdf)
-<use the-random.pdf>
-Package pdftex.def Info: the-random.pdf  used on input line 150.
-(pdftex.def)             Requested size: 483.69687pt x 291.78671pt.
+ <./i-neer-shall-wean-her.pdf> <./the-castle.pdf> <./mcintyres-fancy.pdf>]
+<the-pipe-on-the-hob.pdf, id=488, 495.8525pt x 294.09875pt>
+File: the-pipe-on-the-hob.pdf Graphic file (type pdf)
+<use the-pipe-on-the-hob.pdf>
+Package pdftex.def Info: the-pipe-on-the-hob.pdf  used on input line 171.
+(pdftex.def)             Requested size: 483.69687pt x 286.89096pt.
+<the-cook-in-the-kitchen.pdf, id=489, 495.8525pt x 294.09875pt>
+File: the-cook-in-the-kitchen.pdf Graphic file (type pdf)
+<use the-cook-in-the-kitchen.pdf>
+Package pdftex.def Info: the-cook-in-the-kitchen.pdf  used on input line 173.
+(pdftex.def)             Requested size: 483.69687pt x 286.89096pt.
 
 
 [15
 
- <./the-random.pdf>]
-<merrily-kiss-the-quaker.pdf, id=475, 495.8525pt x 295.1025pt>
-File: merrily-kiss-the-quaker.pdf Graphic file (type pdf)
-<use merrily-kiss-the-quaker.pdf>
-Package pdftex.def Info: merrily-kiss-the-quaker.pdf  used on input line 156.
-(pdftex.def)             Requested size: 483.69687pt x 287.8701pt.
-<grainnes.pdf, id=476, 495.8525pt x 327.2225pt>
-File: grainnes.pdf Graphic file (type pdf)
-<use grainnes.pdf>
-Package pdftex.def Info: grainnes.pdf  used on input line 158.
-(pdftex.def)             Requested size: 483.69687pt x 319.20291pt.
+ <./the-pipe-on-the-hob.pdf> <./the-cook-in-the-kitchen.pdf>]
+<the-random.pdf, id=522, 495.8525pt x 299.1175pt>
+File: the-random.pdf Graphic file (type pdf)
+<use the-random.pdf>
+Package pdftex.def Info: the-random.pdf  used on input line 175.
+(pdftex.def)             Requested size: 483.69687pt x 291.78671pt.
 
 
 [16
 
- <./merrily-kiss-the-quaker.pdf> <./grainnes.pdf>]
-<dusty-windowsills.pdf, id=514, 495.8525pt x 327.2225pt>
-File: dusty-windowsills.pdf Graphic file (type pdf)
-<use dusty-windowsills.pdf>
-Package pdftex.def Info: dusty-windowsills.pdf  used on input line 164.
+ <./the-random.pdf>]
+<merrily-kiss-the-quaker.pdf, id=542, 495.8525pt x 295.1025pt>
+File: merrily-kiss-the-quaker.pdf Graphic file (type pdf)
+<use merrily-kiss-the-quaker.pdf>
+Package pdftex.def Info: merrily-kiss-the-quaker.pdf  used on input line 181.
+(pdftex.def)             Requested size: 483.69687pt x 287.8701pt.
+<grainnes.pdf, id=543, 495.8525pt x 327.2225pt>
+File: grainnes.pdf Graphic file (type pdf)
+<use grainnes.pdf>
+Package pdftex.def Info: grainnes.pdf  used on input line 183.
 (pdftex.def)             Requested size: 483.69687pt x 319.20291pt.
-<banish-misfortune.pdf, id=515, 495.8525pt x 304.13625pt>
-File: banish-misfortune.pdf Graphic file (type pdf)
-<use banish-misfortune.pdf>
-Package pdftex.def Info: banish-misfortune.pdf  used on input line 166.
-(pdftex.def)             Requested size: 483.69687pt x 296.68246pt.
 
 
 [17
 
- <./dusty-windowsills.pdf> <./banish-misfortune.pdf>]
-<the-wishing-well.pdf, id=557, 495.8525pt x 314.17375pt>
-File: the-wishing-well.pdf Graphic file (type pdf)
-<use the-wishing-well.pdf>
-Package pdftex.def Info: the-wishing-well.pdf  used on input line 172.
-(pdftex.def)             Requested size: 483.69687pt x 306.47397pt.
-<the-cats-meow.pdf, id=558, 495.8525pt x 322.20375pt>
-File: the-cats-meow.pdf Graphic file (type pdf)
-<use the-cats-meow.pdf>
-Package pdftex.def Info: the-cats-meow.pdf  used on input line 174.
-(pdftex.def)             Requested size: 483.69687pt x 314.30717pt.
+ <./merrily-kiss-the-quaker.pdf> <./grainnes.pdf>]
+<dusty-windowsills.pdf, id=581, 495.8525pt x 327.2225pt>
+File: dusty-windowsills.pdf Graphic file (type pdf)
+<use dusty-windowsills.pdf>
+Package pdftex.def Info: dusty-windowsills.pdf  used on input line 189.
+(pdftex.def)             Requested size: 483.69687pt x 319.20291pt.
+<banish-misfortune.pdf, id=582, 495.8525pt x 304.13625pt>
+File: banish-misfortune.pdf Graphic file (type pdf)
+<use banish-misfortune.pdf>
+Package pdftex.def Info: banish-misfortune.pdf  used on input line 191.
+(pdftex.def)             Requested size: 483.69687pt x 296.68246pt.
 
 
 [18
 
- <./the-wishing-well.pdf> <./the-cats-meow.pdf>]
-<den-toppede-hone-fra-vensyssel.pdf, id=600, 495.8525pt x 325.215pt>
-File: den-toppede-hone-fra-vensyssel.pdf Graphic file (type pdf)
-<use den-toppede-hone-fra-vensyssel.pdf>
-Package pdftex.def Info: den-toppede-hone-fra-vensyssel.pdf  used on input line 180.
-(pdftex.def)             Requested size: 483.69687pt x 317.24461pt.
-<kadril-van-mechelen.pdf, id=601, 495.8525pt x 317.185pt>
-File: kadril-van-mechelen.pdf Graphic file (type pdf)
-<use kadril-van-mechelen.pdf>
-Package pdftex.def Info: kadril-van-mechelen.pdf  used on input line 182.
-(pdftex.def)             Requested size: 483.69687pt x 309.4114pt.
+ <./dusty-windowsills.pdf> <./banish-misfortune.pdf>]
+<the-wishing-well.pdf, id=623, 495.8525pt x 314.17375pt>
+File: the-wishing-well.pdf Graphic file (type pdf)
+<use the-wishing-well.pdf>
+Package pdftex.def Info: the-wishing-well.pdf  used on input line 197.
+(pdftex.def)             Requested size: 483.69687pt x 306.47397pt.
+<the-cats-meow.pdf, id=624, 495.8525pt x 322.20375pt>
+File: the-cats-meow.pdf Graphic file (type pdf)
+<use the-cats-meow.pdf>
+Package pdftex.def Info: the-cats-meow.pdf  used on input line 199.
+(pdftex.def)             Requested size: 483.69687pt x 314.30717pt.
 
 
 [19
 
- <./den-toppede-hone-fra-vensyssel.pdf> <./kadril-van-mechelen.pdf>]
-<dancing-in-allihies.pdf, id=644, 495.8525pt x 318.18875pt>
-File: dancing-in-allihies.pdf Graphic file (type pdf)
-<use dancing-in-allihies.pdf>
-Package pdftex.def Info: dancing-in-allihies.pdf  used on input line 192.
-(pdftex.def)             Requested size: 483.69687pt x 310.39056pt.
-<torias-50th.pdf, id=645, 495.8525pt x 231.86626pt>
-File: torias-50th.pdf Graphic file (type pdf)
-<use torias-50th.pdf>
-Package pdftex.def Info: torias-50th.pdf  used on input line 194.
-(pdftex.def)             Requested size: 483.69687pt x 226.18365pt.
+ <./the-wishing-well.pdf> <./the-cats-meow.pdf>]
+<den-toppede-hone-fra-vensyssel.pdf, id=667, 495.8525pt x 325.215pt>
+File: den-toppede-hone-fra-vensyssel.pdf Graphic file (type pdf)
+<use den-toppede-hone-fra-vensyssel.pdf>
+Package pdftex.def Info: den-toppede-hone-fra-vensyssel.pdf  used on input line 205.
+(pdftex.def)             Requested size: 483.69687pt x 317.24461pt.
+<kadril-van-mechelen.pdf, id=668, 495.8525pt x 317.185pt>
+File: kadril-van-mechelen.pdf Graphic file (type pdf)
+<use kadril-van-mechelen.pdf>
+Package pdftex.def Info: kadril-van-mechelen.pdf  used on input line 207.
+(pdftex.def)             Requested size: 483.69687pt x 309.4114pt.
 
 
 [20
 
- <./dancing-in-allihies.pdf> <./torias-50th.pdf>]
-<stomach-steinway-man.pdf, id=683, 495.8525pt x 318.18875pt>
-File: stomach-steinway-man.pdf Graphic file (type pdf)
-<use stomach-steinway-man.pdf>
-Package pdftex.def Info: stomach-steinway-man.pdf  used on input line 200.
-(pdftex.def)             Requested size: 483.69687pt x 310.39056pt.
-<anne-laceys.pdf, id=684, 495.8525pt x 224.84pt>
-File: anne-laceys.pdf Graphic file (type pdf)
-<use anne-laceys.pdf>
-Package pdftex.def Info: anne-laceys.pdf  used on input line 202.
-(pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
+ <./den-toppede-hone-fra-vensyssel.pdf> <./kadril-van-mechelen.pdf>]
+<the-lark-in-the-morning.pdf, id=710, 495.8525pt x 446.66875pt>
+File: the-lark-in-the-morning.pdf Graphic file (type pdf)
+<use the-lark-in-the-morning.pdf>
+Package pdftex.def Info: the-lark-in-the-morning.pdf  used on input line 217.
+(pdftex.def)             Requested size: 483.69687pt x 435.72177pt.
+<the-atholl-highlanders.pdf, id=711, 495.8525pt x 432.61626pt>
+File: the-atholl-highlanders.pdf Graphic file (type pdf)
+<use the-atholl-highlanders.pdf>
+Package pdftex.def Info: the-atholl-highlanders.pdf  used on input line 219.
+(pdftex.def)             Requested size: 483.69687pt x 422.01369pt.
 
 
 [21
 
- <./stomach-steinway-man.pdf> <./anne-laceys.pdf>]
-<hommage-a-edmond-parizeau.pdf, id=718, 495.8525pt x 234.8775pt>
-File: hommage-a-edmond-parizeau.pdf Graphic file (type pdf)
-<use hommage-a-edmond-parizeau.pdf>
-Package pdftex.def Info: hommage-a-edmond-parizeau.pdf  used on input line 208.
-(pdftex.def)             Requested size: 483.69687pt x 229.12111pt.
-<hommage-a-philippe-bruneau.pdf, id=719, 495.8525pt x 225.84375pt>
-File: hommage-a-philippe-bruneau.pdf Graphic file (type pdf)
-<use hommage-a-philippe-bruneau.pdf>
-Package pdftex.def Info: hommage-a-philippe-bruneau.pdf  used on input line 210.
-(pdftex.def)             Requested size: 483.69687pt x 220.30875pt.
+ <./the-lark-in-the-morning.pdf>]
 
-
-[22
-
- <./hommage-a-edmond-parizeau.pdf> <./hommage-a-philippe-bruneau.pdf>]
-<good-morning-to-your-nightcap.pdf, id=753, 495.8525pt x 227.85126pt>
-File: good-morning-to-your-nightcap.pdf Graphic file (type pdf)
-<use good-morning-to-your-nightcap.pdf>
-Package pdftex.def Info: good-morning-to-your-nightcap.pdf  used on input line 216.
-(pdftex.def)             Requested size: 483.69687pt x 222.26706pt.
-<maggies-pancakes.pdf, id=754, 495.8525pt x 221.82875pt>
-File: maggies-pancakes.pdf Graphic file (type pdf)
-<use maggies-pancakes.pdf>
-Package pdftex.def Info: maggies-pancakes.pdf  used on input line 218.
-(pdftex.def)             Requested size: 483.69687pt x 216.39214pt.
+[22 <./the-atholl-highlanders.pdf>]
+<the-humours-of-ballyloughlin.pdf, id=757, 495.8525pt x 431.6125pt>
+File: the-humours-of-ballyloughlin.pdf Graphic file (type pdf)
+<use the-humours-of-ballyloughlin.pdf>
+Package pdftex.def Info: the-humours-of-ballyloughlin.pdf  used on input line 225.
+(pdftex.def)             Requested size: 483.69687pt x 421.03453pt.
+<muireanns.pdf, id=758, 495.8525pt x 436.63126pt>
+File: muireanns.pdf Graphic file (type pdf)
+<use muireanns.pdf>
+Package pdftex.def Info: muireanns.pdf  used on input line 227.
+(pdftex.def)             Requested size: 483.69687pt x 425.93028pt.
 
 
 [23
 
- <./good-morning-to-your-nightcap.pdf> <./maggies-pancakes.pdf>]
-<bourree-de-montfort.pdf, id=788, 495.8525pt x 222.8325pt>
-File: bourree-de-montfort.pdf Graphic file (type pdf)
-<use bourree-de-montfort.pdf>
-Package pdftex.def Info: bourree-de-montfort.pdf  used on input line 232.
-(pdftex.def)             Requested size: 483.69687pt x 217.3713pt.
-<chassepain.pdf, id=789, 495.8525pt x 206.7725pt>
-File: chassepain.pdf Graphic file (type pdf)
-<use chassepain.pdf>
-Package pdftex.def Info: chassepain.pdf  used on input line 234.
-(pdftex.def)             Requested size: 483.69687pt x 201.70491pt.
-<bourree-a-malochet.pdf, id=790, 495.8525pt x 125.46875pt>
-File: bourree-a-malochet.pdf Graphic file (type pdf)
-<use bourree-a-malochet.pdf>
-Package pdftex.def Info: bourree-a-malochet.pdf  used on input line 236.
-(pdftex.def)             Requested size: 483.69687pt x 122.39374pt.
+ <./the-humours-of-ballyloughlin.pdf>]
 
-
-[24
-
- <./bourree-de-montfort.pdf> <./chassepain.pdf> <./bourree-a-malochet.pdf>]
-<mister-moores-hornpipe.pdf, id=841, 495.8525pt x 224.84pt>
-File: mister-moores-hornpipe.pdf Graphic file (type pdf)
-<use mister-moores-hornpipe.pdf>
-Package pdftex.def Info: mister-moores-hornpipe.pdf  used on input line 246.
-(pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
+[24 <./muireanns.pdf>]
+<an-phis-fhliuch.pdf, id=804, 495.8525pt x 270.00874pt>
+File: an-phis-fhliuch.pdf Graphic file (type pdf)
+<use an-phis-fhliuch.pdf>
+Package pdftex.def Info: an-phis-fhliuch.pdf  used on input line 237.
+(pdftex.def)             Requested size: 483.69687pt x 263.39136pt.
 
 
 [25
 
- <./mister-moores-hornpipe.pdf>]
-<james-browns.pdf, id=866, 495.8525pt x 171.64125pt>
-File: james-browns.pdf Graphic file (type pdf)
-<use james-browns.pdf>
-Package pdftex.def Info: james-browns.pdf  used on input line 256.
-(pdftex.def)             Requested size: 483.69687pt x 167.43463pt.
-<marche-du-mont-saint-louis.pdf, id=867, 495.8525pt x 239.89626pt>
-File: marche-du-mont-saint-louis.pdf Graphic file (type pdf)
-<use marche-du-mont-saint-louis.pdf>
-Package pdftex.def Info: marche-du-mont-saint-louis.pdf  used on input line 262.
-(pdftex.def)             Requested size: 483.69687pt x 234.01686pt.
+ <./an-phis-fhliuch.pdf>]
+<maud-millar.pdf, id=825, 495.8525pt x 145.54375pt>
+File: maud-millar.pdf Graphic file (type pdf)
+<use maud-millar.pdf>
+Package pdftex.def Info: maud-millar.pdf  used on input line 247.
+(pdftex.def)             Requested size: 483.69687pt x 141.97675pt.
+<the-red-haired-lass.pdf, id=826, 495.8525pt x 182.6825pt>
+File: the-red-haired-lass.pdf Graphic file (type pdf)
+<use the-red-haired-lass.pdf>
+Package pdftex.def Info: the-red-haired-lass.pdf  used on input line 249.
+(pdftex.def)             Requested size: 483.69687pt x 178.20529pt.
+<the-humours-of-tulla.pdf, id=827, 495.8525pt x 123.46124pt>
+File: the-humours-of-tulla.pdf Graphic file (type pdf)
+<use the-humours-of-tulla.pdf>
+Package pdftex.def Info: the-humours-of-tulla.pdf  used on input line 251.
+(pdftex.def)             Requested size: 483.69687pt x 120.43542pt.
+<the-hares-paw.pdf, id=828, 495.8525pt x 159.59625pt>
+File: the-hares-paw.pdf Graphic file (type pdf)
+<use the-hares-paw.pdf>
+Package pdftex.def Info: the-hares-paw.pdf  used on input line 253.
+(pdftex.def)             Requested size: 483.69687pt x 155.68484pt.
 
 
 [26
 
- <./james-browns.pdf> <./marche-du-mont-saint-louis.pdf>]
-<scotland-the-brave.pdf, id=902, 495.8525pt x 216.81pt>
-File: scotland-the-brave.pdf Graphic file (type pdf)
-<use scotland-the-brave.pdf>
-Package pdftex.def Info: scotland-the-brave.pdf  used on input line 268.
-(pdftex.def)             Requested size: 483.69687pt x 211.49641pt.
-<the-battle-of-waterloo.pdf, id=903, 495.8525pt x 221.82875pt>
-File: the-battle-of-waterloo.pdf Graphic file (type pdf)
-<use the-battle-of-waterloo.pdf>
-Package pdftex.def Info: the-battle-of-waterloo.pdf  used on input line 270.
-(pdftex.def)             Requested size: 483.69687pt x 216.39214pt.
-<willie-andersons-farewell-to-dalharn.pdf, id=904, 495.8525pt x 172.645pt>
-File: willie-andersons-farewell-to-dalharn.pdf Graphic file (type pdf)
-<use willie-andersons-farewell-to-dalharn.pdf>
-Package pdftex.def Info: willie-andersons-farewell-to-dalharn.pdf  used on input line 272.
-(pdftex.def)             Requested size: 483.69687pt x 168.41379pt.
+ <./maud-millar.pdf> <./the-red-haired-lass.pdf> <./the-humours-of-tulla.pdf> <./the-hares-paw.pdf>]
+<the-fermoy-lasses.pdf, id=890, 495.8525pt x 203.76125pt>
+File: the-fermoy-lasses.pdf Graphic file (type pdf)
+<use the-fermoy-lasses.pdf>
+Package pdftex.def Info: the-fermoy-lasses.pdf  used on input line 255.
+(pdftex.def)             Requested size: 483.69687pt x 198.76746pt.
+<the-mountain-road.pdf, id=891, 495.8525pt x 204.765pt>
+File: the-mountain-road.pdf Graphic file (type pdf)
+<use the-mountain-road.pdf>
+Package pdftex.def Info: the-mountain-road.pdf  used on input line 257.
+(pdftex.def)             Requested size: 483.69687pt x 199.7466pt.
+<the-pigtown-fling.pdf, id=892, 495.8525pt x 113.42375pt>
+File: the-pigtown-fling.pdf Graphic file (type pdf)
+<use the-pigtown-fling.pdf>
+Package pdftex.def Info: the-pigtown-fling.pdf  used on input line 259.
+(pdftex.def)             Requested size: 483.69687pt x 110.64394pt.
+<the-monaghan-twig.pdf, id=893, 495.8525pt x 159.59625pt>
+File: the-monaghan-twig.pdf Graphic file (type pdf)
+<use the-monaghan-twig.pdf>
+Package pdftex.def Info: the-monaghan-twig.pdf  used on input line 261.
+(pdftex.def)             Requested size: 483.69687pt x 155.68484pt.
 
 
 [27
 
- <./scotland-the-brave.pdf> <./the-battle-of-waterloo.pdf> <./willie-andersons-farewell-to-dalharn.pdf>] (./oucb-tunebook.aux)
+ <./the-fermoy-lasses.pdf> <./the-mountain-road.pdf> <./the-pigtown-fling.pdf> <./the-monaghan-twig.pdf>]
+<the-silver-spear.pdf, id=955, 495.8525pt x 228.855pt>
+File: the-silver-spear.pdf Graphic file (type pdf)
+<use the-silver-spear.pdf>
+Package pdftex.def Info: the-silver-spear.pdf  used on input line 271.
+(pdftex.def)             Requested size: 483.69687pt x 223.2462pt.
+<the-earls-chair.pdf, id=956, 495.8525pt x 236.885pt>
+File: the-earls-chair.pdf Graphic file (type pdf)
+<use the-earls-chair.pdf>
+Package pdftex.def Info: the-earls-chair.pdf  used on input line 273.
+(pdftex.def)             Requested size: 483.69687pt x 231.0794pt.
+
+
+[28
+
+ <./the-silver-spear.pdf> <./the-earls-chair.pdf>]
+<tree-gap.pdf, id=998, 495.8525pt x 230.8625pt>
+File: tree-gap.pdf Graphic file (type pdf)
+<use tree-gap.pdf>
+Package pdftex.def Info: tree-gap.pdf  used on input line 275.
+(pdftex.def)             Requested size: 483.69687pt x 225.2045pt.
+<franks.pdf, id=999, 495.8525pt x 332.24126pt>
+File: franks.pdf Graphic file (type pdf)
+<use franks.pdf>
+Package pdftex.def Info: franks.pdf  used on input line 277.
+(pdftex.def)             Requested size: 483.69687pt x 324.09866pt.
+
+
+[29
+
+ <./tree-gap.pdf> <./franks.pdf>]
+<the-salamanca.pdf, id=1041, 495.8525pt x 226.8475pt>
+File: the-salamanca.pdf Graphic file (type pdf)
+<use the-salamanca.pdf>
+Package pdftex.def Info: the-salamanca.pdf  used on input line 283.
+(pdftex.def)             Requested size: 483.69687pt x 221.2879pt.
+<toss-the-feathers.pdf, id=1042, 495.8525pt x 231.86626pt>
+File: toss-the-feathers.pdf Graphic file (type pdf)
+<use toss-the-feathers.pdf>
+Package pdftex.def Info: toss-the-feathers.pdf  used on input line 285.
+(pdftex.def)             Requested size: 483.69687pt x 226.18365pt.
+
+
+[30
+
+ <./the-salamanca.pdf> <./toss-the-feathers.pdf>]
+<the-congress.pdf, id=1084, 495.8525pt x 232.87pt>
+File: the-congress.pdf Graphic file (type pdf)
+<use the-congress.pdf>
+Package pdftex.def Info: the-congress.pdf  used on input line 287.
+(pdftex.def)             Requested size: 483.69687pt x 227.1628pt.
+<the-mill-house.pdf, id=1085, 495.8525pt x 287.0725pt>
+File: the-mill-house.pdf Graphic file (type pdf)
+<use the-mill-house.pdf>
+Package pdftex.def Info: the-mill-house.pdf  used on input line 289.
+(pdftex.def)             Requested size: 483.69687pt x 280.03691pt.
+
+
+[31
+
+ <./the-congress.pdf> <./the-mill-house.pdf>]
+<peter-street.pdf, id=1127, 495.8525pt x 234.8775pt>
+File: peter-street.pdf Graphic file (type pdf)
+<use peter-street.pdf>
+Package pdftex.def Info: peter-street.pdf  used on input line 295.
+(pdftex.def)             Requested size: 483.69687pt x 229.12111pt.
+<the-old-bush.pdf, id=1128, 495.8525pt x 225.84375pt>
+File: the-old-bush.pdf Graphic file (type pdf)
+<use the-old-bush.pdf>
+Package pdftex.def Info: the-old-bush.pdf  used on input line 297.
+(pdftex.def)             Requested size: 483.69687pt x 220.30875pt.
+
+
+[32
+
+ <./peter-street.pdf> <./the-old-bush.pdf>]
+<the-red-haired-boy.pdf, id=1169, 495.8525pt x 227.85126pt>
+File: the-red-haired-boy.pdf Graphic file (type pdf)
+<use the-red-haired-boy.pdf>
+Package pdftex.def Info: the-red-haired-boy.pdf  used on input line 299.
+(pdftex.def)             Requested size: 483.69687pt x 222.26706pt.
+<the-high-reel.pdf, id=1170, 495.8525pt x 227.85126pt>
+File: the-high-reel.pdf Graphic file (type pdf)
+<use the-high-reel.pdf>
+Package pdftex.def Info: the-high-reel.pdf  used on input line 301.
+(pdftex.def)             Requested size: 483.69687pt x 222.26706pt.
+
+
+[33
+
+ <./the-red-haired-boy.pdf> <./the-high-reel.pdf>]
+<father-kellys.pdf, id=1211, 495.8525pt x 229.85875pt>
+File: father-kellys.pdf Graphic file (type pdf)
+<use father-kellys.pdf>
+Package pdftex.def Info: father-kellys.pdf  used on input line 307.
+(pdftex.def)             Requested size: 483.69687pt x 224.22534pt.
+<the-road-to-rio.pdf, id=1212, 495.8525pt x 228.855pt>
+File: the-road-to-rio.pdf Graphic file (type pdf)
+<use the-road-to-rio.pdf>
+Package pdftex.def Info: the-road-to-rio.pdf  used on input line 309.
+(pdftex.def)             Requested size: 483.69687pt x 223.2462pt.
+
+
+[34
+
+ <./father-kellys.pdf> <./the-road-to-rio.pdf>]
+<cooleys.pdf, id=1254, 495.8525pt x 239.89626pt>
+File: cooleys.pdf Graphic file (type pdf)
+<use cooleys.pdf>
+Package pdftex.def Info: cooleys.pdf  used on input line 311.
+(pdftex.def)             Requested size: 483.69687pt x 234.01686pt.
+<macleods-farewell.pdf, id=1255, 495.8525pt x 226.8475pt>
+File: macleods-farewell.pdf Graphic file (type pdf)
+<use macleods-farewell.pdf>
+Package pdftex.def Info: macleods-farewell.pdf  used on input line 313.
+(pdftex.def)             Requested size: 483.69687pt x 221.2879pt.
+
+
+[35
+
+ <./cooleys.pdf> <./macleods-farewell.pdf>]
+<the-sally-gardens.pdf, id=1299, 495.8525pt x 223.83624pt>
+File: the-sally-gardens.pdf Graphic file (type pdf)
+<use the-sally-gardens.pdf>
+Package pdftex.def Info: the-sally-gardens.pdf  used on input line 319.
+(pdftex.def)             Requested size: 483.69687pt x 218.35045pt.
+<the-reconciliation.pdf, id=1300, 495.8525pt x 224.84pt>
+File: the-reconciliation.pdf Graphic file (type pdf)
+<use the-reconciliation.pdf>
+Package pdftex.def Info: the-reconciliation.pdf  used on input line 321.
+(pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
+
+
+[36
+
+ <./the-sally-gardens.pdf> <./the-reconciliation.pdf>]
+<siobhan-odonnells.pdf, id=1341, 495.8525pt x 239.89626pt>
+File: siobhan-odonnells.pdf Graphic file (type pdf)
+<use siobhan-odonnells.pdf>
+Package pdftex.def Info: siobhan-odonnells.pdf  used on input line 323.
+(pdftex.def)             Requested size: 483.69687pt x 234.01686pt.
+<macarthur-road.pdf, id=1342, 495.8525pt x 296.10625pt>
+File: macarthur-road.pdf Graphic file (type pdf)
+<use macarthur-road.pdf>
+Package pdftex.def Info: macarthur-road.pdf  used on input line 325.
+(pdftex.def)             Requested size: 483.69687pt x 288.84926pt.
+
+
+[37
+
+ <./siobhan-odonnells.pdf> <./macarthur-road.pdf>]
+<good-morning-to-your-nightcap.pdf, id=1385, 495.8525pt x 218.8175pt>
+File: good-morning-to-your-nightcap.pdf Graphic file (type pdf)
+<use good-morning-to-your-nightcap.pdf>
+Package pdftex.def Info: good-morning-to-your-nightcap.pdf  used on input line 333.
+(pdftex.def)             Requested size: 483.69687pt x 213.4547pt.
+<maggies-pancakes.pdf, id=1386, 495.8525pt x 206.7725pt>
+File: maggies-pancakes.pdf Graphic file (type pdf)
+<use maggies-pancakes.pdf>
+Package pdftex.def Info: maggies-pancakes.pdf  used on input line 335.
+(pdftex.def)             Requested size: 483.69687pt x 201.70491pt.
+<ramnee-ceilidh.pdf, id=1387, 495.8525pt x 215.80624pt>
+File: ramnee-ceilidh.pdf Graphic file (type pdf)
+<use ramnee-ceilidh.pdf>
+Package pdftex.def Info: ramnee-ceilidh.pdf  used on input line 337.
+(pdftex.def)             Requested size: 483.69687pt x 210.51726pt.
+
+
+[38
+
+ <./good-morning-to-your-nightcap.pdf> <./maggies-pancakes.pdf> <./ramnee-ceilidh.pdf>]
+<dancing-in-allihies.pdf, id=1435, 495.8525pt x 318.18875pt>
+File: dancing-in-allihies.pdf Graphic file (type pdf)
+<use dancing-in-allihies.pdf>
+Package pdftex.def Info: dancing-in-allihies.pdf  used on input line 343.
+(pdftex.def)             Requested size: 483.69687pt x 310.39056pt.
+<torias-50th.pdf, id=1436, 495.8525pt x 231.86626pt>
+File: torias-50th.pdf Graphic file (type pdf)
+<use torias-50th.pdf>
+Package pdftex.def Info: torias-50th.pdf  used on input line 345.
+(pdftex.def)             Requested size: 483.69687pt x 226.18365pt.
+
+
+[39
+
+ <./dancing-in-allihies.pdf> <./torias-50th.pdf>]
+<stomach-steinway-man.pdf, id=1475, 495.8525pt x 318.18875pt>
+File: stomach-steinway-man.pdf Graphic file (type pdf)
+<use stomach-steinway-man.pdf>
+Package pdftex.def Info: stomach-steinway-man.pdf  used on input line 351.
+(pdftex.def)             Requested size: 483.69687pt x 310.39056pt.
+<anne-laceys.pdf, id=1476, 495.8525pt x 224.84pt>
+File: anne-laceys.pdf Graphic file (type pdf)
+<use anne-laceys.pdf>
+Package pdftex.def Info: anne-laceys.pdf  used on input line 353.
+(pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
+
+
+[40
+
+ <./stomach-steinway-man.pdf> <./anne-laceys.pdf>]
+<hommage-a-edmond-parizeau.pdf, id=1510, 495.8525pt x 234.8775pt>
+File: hommage-a-edmond-parizeau.pdf Graphic file (type pdf)
+<use hommage-a-edmond-parizeau.pdf>
+Package pdftex.def Info: hommage-a-edmond-parizeau.pdf  used on input line 359.
+(pdftex.def)             Requested size: 483.69687pt x 229.12111pt.
+<hommage-a-philippe-bruneau.pdf, id=1511, 495.8525pt x 225.84375pt>
+File: hommage-a-philippe-bruneau.pdf Graphic file (type pdf)
+<use hommage-a-philippe-bruneau.pdf>
+Package pdftex.def Info: hommage-a-philippe-bruneau.pdf  used on input line 361.
+(pdftex.def)             Requested size: 483.69687pt x 220.30875pt.
+
+
+[41
+
+ <./hommage-a-edmond-parizeau.pdf> <./hommage-a-philippe-bruneau.pdf>]
+<bourree-de-montfort.pdf, id=1544, 495.8525pt x 222.8325pt>
+File: bourree-de-montfort.pdf Graphic file (type pdf)
+<use bourree-de-montfort.pdf>
+Package pdftex.def Info: bourree-de-montfort.pdf  used on input line 375.
+(pdftex.def)             Requested size: 483.69687pt x 217.3713pt.
+<chassepain.pdf, id=1545, 495.8525pt x 206.7725pt>
+File: chassepain.pdf Graphic file (type pdf)
+<use chassepain.pdf>
+Package pdftex.def Info: chassepain.pdf  used on input line 377.
+(pdftex.def)             Requested size: 483.69687pt x 201.70491pt.
+<bourree-a-malochet.pdf, id=1546, 495.8525pt x 125.46875pt>
+File: bourree-a-malochet.pdf Graphic file (type pdf)
+<use bourree-a-malochet.pdf>
+Package pdftex.def Info: bourree-a-malochet.pdf  used on input line 379.
+(pdftex.def)             Requested size: 483.69687pt x 122.39374pt.
+
+
+[42
+
+ <./bourree-de-montfort.pdf> <./chassepain.pdf> <./bourree-a-malochet.pdf>]
+<mister-moores-hornpipe.pdf, id=1597, 495.8525pt x 224.84pt>
+File: mister-moores-hornpipe.pdf Graphic file (type pdf)
+<use mister-moores-hornpipe.pdf>
+Package pdftex.def Info: mister-moores-hornpipe.pdf  used on input line 389.
+(pdftex.def)             Requested size: 483.69687pt x 219.3296pt.
+
+
+[43
+
+ <./mister-moores-hornpipe.pdf>]
+<scotland-the-brave.pdf, id=1622, 495.8525pt x 216.81pt>
+File: scotland-the-brave.pdf Graphic file (type pdf)
+<use scotland-the-brave.pdf>
+Package pdftex.def Info: scotland-the-brave.pdf  used on input line 399.
+(pdftex.def)             Requested size: 483.69687pt x 211.49641pt.
+<the-battle-of-waterloo.pdf, id=1623, 495.8525pt x 221.82875pt>
+File: the-battle-of-waterloo.pdf Graphic file (type pdf)
+<use the-battle-of-waterloo.pdf>
+Package pdftex.def Info: the-battle-of-waterloo.pdf  used on input line 401.
+(pdftex.def)             Requested size: 483.69687pt x 216.39214pt.
+<willie-andersons-farewell-to-dalharn.pdf, id=1624, 495.8525pt x 172.645pt>
+File: willie-andersons-farewell-to-dalharn.pdf Graphic file (type pdf)
+<use willie-andersons-farewell-to-dalharn.pdf>
+Package pdftex.def Info: willie-andersons-farewell-to-dalharn.pdf  used on input line 403.
+(pdftex.def)             Requested size: 483.69687pt x 168.41379pt.
+
+
+[44
+
+ <./scotland-the-brave.pdf> <./the-battle-of-waterloo.pdf> <./willie-andersons-farewell-to-dalharn.pdf>]
+<fair-isle-school-centenary.pdf, id=1685, 495.8525pt x 220.825pt>
+File: fair-isle-school-centenary.pdf Graphic file (type pdf)
+<use fair-isle-school-centenary.pdf>
+Package pdftex.def Info: fair-isle-school-centenary.pdf  used on input line 409.
+(pdftex.def)             Requested size: 483.69687pt x 215.413pt.
+<caroline-and-henrys.pdf, id=1686, 495.8525pt x 229.85875pt>
+File: caroline-and-henrys.pdf Graphic file (type pdf)
+<use caroline-and-henrys.pdf>
+Package pdftex.def Info: caroline-and-henrys.pdf  used on input line 411.
+(pdftex.def)             Requested size: 483.69687pt x 224.22534pt.
+
+
+[45
+
+ <./fair-isle-school-centenary.pdf> <./caroline-and-henrys.pdf>]
+<james-browns.pdf, id=1724, 495.8525pt x 171.64125pt>
+File: james-browns.pdf Graphic file (type pdf)
+<use james-browns.pdf>
+Package pdftex.def Info: james-browns.pdf  used on input line 417.
+(pdftex.def)             Requested size: 483.69687pt x 167.43463pt.
+<marche-du-mont-saint-louis.pdf, id=1725, 495.8525pt x 239.89626pt>
+File: marche-du-mont-saint-louis.pdf Graphic file (type pdf)
+<use marche-du-mont-saint-louis.pdf>
+Package pdftex.def Info: marche-du-mont-saint-louis.pdf  used on input line 423.
+(pdftex.def)             Requested size: 483.69687pt x 234.01686pt.
+
+
+[46
+
+ <./james-browns.pdf> <./marche-du-mont-saint-louis.pdf>]
+<flatworld.pdf, id=1759, 495.8525pt x 225.84375pt>
+File: flatworld.pdf Graphic file (type pdf)
+<use flatworld.pdf>
+Package pdftex.def Info: flatworld.pdf  used on input line 435.
+(pdftex.def)             Requested size: 483.69687pt x 220.30875pt.
+<gostas-vals.pdf, id=1760, 495.8525pt x 244.915pt>
+File: gostas-vals.pdf Graphic file (type pdf)
+<use gostas-vals.pdf>
+Package pdftex.def Info: gostas-vals.pdf  used on input line 437.
+(pdftex.def)             Requested size: 483.69687pt x 238.9126pt.
+
+
+[47
+
+ <./flatworld.pdf> <./gostas-vals.pdf>]
+<maggie-wests.pdf, id=1801, 495.8525pt x 230.8625pt>
+File: maggie-wests.pdf Graphic file (type pdf)
+<use maggie-wests.pdf>
+Package pdftex.def Info: maggie-wests.pdf  used on input line 443.
+(pdftex.def)             Requested size: 483.69687pt x 225.2045pt.
+<sundays-well.pdf, id=1802, 495.8525pt x 246.9225pt>
+File: sundays-well.pdf Graphic file (type pdf)
+<use sundays-well.pdf>
+Package pdftex.def Info: sundays-well.pdf  used on input line 445.
+(pdftex.def)             Requested size: 483.69687pt x 240.8709pt.
+
+
+[48
+
+ <./maggie-wests.pdf> <./sundays-well.pdf>]
+<si-bheag-si-mhor.pdf, id=1846, 495.8525pt x 231.86626pt>
+File: si-bheag-si-mhor.pdf Graphic file (type pdf)
+<use si-bheag-si-mhor.pdf>
+Package pdftex.def Info: si-bheag-si-mhor.pdf  used on input line 451.
+(pdftex.def)             Requested size: 483.69687pt x 226.18365pt.
+<the-norwegian-gent.pdf, id=1847, 495.8525pt x 327.2225pt>
+File: the-norwegian-gent.pdf Graphic file (type pdf)
+<use the-norwegian-gent.pdf>
+Package pdftex.def Info: the-norwegian-gent.pdf  used on input line 453.
+(pdftex.def)             Requested size: 483.69687pt x 319.20291pt.
+
+
+[49
+
+ <./si-bheag-si-mhor.pdf> <./the-norwegian-gent.pdf>]
+<midnight-on-the-water.pdf, id=1890, 495.8525pt x 306.14375pt>
+File: midnight-on-the-water.pdf Graphic file (type pdf)
+<use midnight-on-the-water.pdf>
+Package pdftex.def Info: midnight-on-the-water.pdf  used on input line 459.
+(pdftex.def)             Requested size: 483.69687pt x 298.64076pt.
+<flatwater-fran.pdf, id=1891, 495.8525pt x 322.20375pt>
+File: flatwater-fran.pdf Graphic file (type pdf)
+<use flatwater-fran.pdf>
+Package pdftex.def Info: flatwater-fran.pdf  used on input line 461.
+(pdftex.def)             Requested size: 483.69687pt x 314.30717pt.
+
+
+[50
+
+ <./midnight-on-the-water.pdf> <./flatwater-fran.pdf>]
+<emmas-waltz.pdf, id=1932, 495.8525pt x 232.87pt>
+File: emmas-waltz.pdf Graphic file (type pdf)
+<use emmas-waltz.pdf>
+Package pdftex.def Info: emmas-waltz.pdf  used on input line 467.
+(pdftex.def)             Requested size: 483.69687pt x 227.1628pt.
+<les-poules-huppees.pdf, id=1933, 495.8525pt x 218.8175pt>
+File: les-poules-huppees.pdf Graphic file (type pdf)
+<use les-poules-huppees.pdf>
+Package pdftex.def Info: les-poules-huppees.pdf  used on input line 472.
+(pdftex.def)             Requested size: 483.69687pt x 213.4547pt.
+
+
+[51
+
+ <./emmas-waltz.pdf> <./les-poules-huppees.pdf>]
+<dashing-white-sergeant.pdf, id=1971, 495.8525pt x 333.245pt>
+File: dashing-white-sergeant.pdf Graphic file (type pdf)
+<use dashing-white-sergeant.pdf>
+Package pdftex.def Info: dashing-white-sergeant.pdf  used on input line 482.
+(pdftex.def)             Requested size: 483.69687pt x 325.0778pt.
+<petronella.pdf, id=1972, 495.8525pt x 221.82875pt>
+File: petronella.pdf Graphic file (type pdf)
+<use petronella.pdf>
+Package pdftex.def Info: petronella.pdf  used on input line 484.
+(pdftex.def)             Requested size: 483.69687pt x 216.39214pt.
+
+
+[52
+
+ <./dashing-white-sergeant.pdf> <./petronella.pdf>]
+<the-ceilidh-band-reel.pdf, id=2014, 495.8525pt x 253.94875pt>
+File: the-ceilidh-band-reel.pdf Graphic file (type pdf)
+<use the-ceilidh-band-reel.pdf>
+Package pdftex.def Info: the-ceilidh-band-reel.pdf  used on input line 487.
+(pdftex.def)             Requested size: 483.69687pt x 247.72496pt.
+
+
+[53
+
+ <./the-ceilidh-band-reel.pdf>]
+<swedish-masquerade.pdf, id=2037, 495.8525pt x 347.2975pt>
+File: swedish-masquerade.pdf Graphic file (type pdf)
+<use swedish-masquerade.pdf>
+Package pdftex.def Info: swedish-masquerade.pdf  used on input line 493.
+(pdftex.def)             Requested size: 483.69687pt x 338.78592pt.
+
+
+[54
+
+ <./swedish-masquerade.pdf>] (./oucb-tunebook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -782,18 +1181,18 @@ Package rerunfilecheck Info: File `oucb-tunebook.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9965 strings out of 473197
- 163504 string characters out of 5718605
- 555223 words of memory out of 5000000
- 33068 multiletter control sequences out of 15000+600000
+ 10532 strings out of 473197
+ 179431 string characters out of 5718605
+ 556223 words of memory out of 5000000
+ 33608 multiletter control sequences out of 15000+600000
  576921 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,5n,79p,571b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on oucb-tunebook.pdf (27 pages, 896723 bytes).
+Output written on oucb-tunebook.pdf (54 pages, 1882614 bytes).
 PDF statistics:
- 991 PDF objects out of 1000 (max. 8388607)
- 562 compressed objects within 6 object streams
- 28 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2096 PDF objects out of 2487 (max. 8388607)
+ 1180 compressed objects within 12 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 511 words of extra memory for PDF output out of 10000 (max. 10000000)
 
