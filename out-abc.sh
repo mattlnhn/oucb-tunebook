@@ -454,6 +454,12 @@ epstopdf james-browns.eps
 abcm2ps -O = -s 0.7   marche-du-mont-saint-louis.abc 
 ps2eps -f marche-du-mont-saint-louis.ps
 epstopdf marche-du-mont-saint-louis.eps
+abcm2ps -O = -s 0.7   a-mans-a-man.abc 
+ps2eps -f a-mans-a-man.ps
+epstopdf a-mans-a-man.eps
+abcm2ps -O = -s 0.7   tripping-on-the-mountain.abc 
+ps2eps -f tripping-on-the-mountain.ps
+epstopdf tripping-on-the-mountain.eps
 abcm2ps -O = -s 0.65 -d 40pt   johnny-pringle.abc 
 ps2eps -f johnny-pringle.ps
 epstopdf johnny-pringle.eps
