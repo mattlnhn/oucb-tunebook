@@ -82,7 +82,7 @@ epstopdf the-banks-of-lough-gowna.eps
 abcm2ps -O = -s 0.7   the-cordal.abc 
 ps2eps -f the-cordal.ps
 epstopdf the-cordal.eps
-abcm2ps -O = -s 0.7 -d 40pt   dearest-dickie.abc 
+abcm2ps -O = -s 0.65 -d 40pt   dearest-dickie.abc 
 ps2eps -f dearest-dickie.ps
 epstopdf dearest-dickie.eps
 abcm2ps -O = -s 0.7 -d 40pt   the-pipe-on-the-hob.abc 
@@ -100,9 +100,9 @@ epstopdf merrily-kiss-the-quaker.eps
 abcm2ps -O = -s 0.7 -d 40pt   grainnes.abc 
 ps2eps -f grainnes.ps
 epstopdf grainnes.eps
-abcm2ps -O = -s 0.7 -d 40pt   dusty-windowsills.abc 
-ps2eps -f dusty-windowsills.ps
-epstopdf dusty-windowsills.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-blarney-pilgrim.abc 
+ps2eps -f the-blarney-pilgrim.ps
+epstopdf the-blarney-pilgrim.eps
 abcm2ps -O = -s 0.7 -d 40pt   banish-misfortune.abc 
 ps2eps -f banish-misfortune.ps
 epstopdf banish-misfortune.eps
@@ -145,6 +145,9 @@ epstopdf the-humours-of-ballyloughlin.eps
 abcm2ps -O = -s 0.7   muireanns.abc 
 ps2eps -f muireanns.ps
 epstopdf muireanns.eps
+abcm2ps -O = -s 0.7   the-maid-at-the-spinning-wheel.abc 
+ps2eps -f the-maid-at-the-spinning-wheel.ps
+epstopdf the-maid-at-the-spinning-wheel.eps
 abcm2ps -O = -s 0.7   gillan-an-drover.abc 
 ps2eps -f gillan-an-drover.ps
 epstopdf gillan-an-drover.eps
@@ -154,9 +157,33 @@ epstopdf margrett-browns-favourite.eps
 abcm2ps -O = -s 0.7   the-hills-of-glenorchy.abc 
 ps2eps -f the-hills-of-glenorchy.ps
 epstopdf the-hills-of-glenorchy.eps
+abcm2ps -O = -s 0.7   the-kid-on-the-mountain.abc 
+ps2eps -f the-kid-on-the-mountain.ps
+epstopdf the-kid-on-the-mountain.eps
 abcm2ps -O = -s 0.7   an-phis-fhliuch.abc 
 ps2eps -f an-phis-fhliuch.ps
 epstopdf an-phis-fhliuch.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-butterfly.abc 
+ps2eps -f the-butterfly.ps
+epstopdf the-butterfly.eps
+abcm2ps -O = -s 0.7 -d 40pt   dever-the-dancer.abc 
+ps2eps -f dever-the-dancer.ps
+epstopdf dever-the-dancer.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-rabbit.abc 
+ps2eps -f the-rabbit.ps
+epstopdf the-rabbit.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-swaggering-jig.abc 
+ps2eps -f the-swaggering-jig.ps
+epstopdf the-swaggering-jig.eps
+abcm2ps -O = -s 0.7 -d 40pt   a-fig-for-a-kiss.abc 
+ps2eps -f a-fig-for-a-kiss.ps
+epstopdf a-fig-for-a-kiss.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-humours-of-whiskey.abc 
+ps2eps -f the-humours-of-whiskey.ps
+epstopdf the-humours-of-whiskey.eps
+abcm2ps -O = -s 0.7 -d 40pt   farewell-to-whalley-range.abc 
+ps2eps -f farewell-to-whalley-range.ps
+epstopdf farewell-to-whalley-range.eps
 abcm2ps -O = -s 0.65 -d 35pt   maud-millar.abc 
 ps2eps -f maud-millar.ps
 epstopdf maud-millar.eps
@@ -241,6 +268,42 @@ epstopdf siobhan-odonnells.eps
 abcm2ps -O = -s 0.7   macarthur-road.abc 
 ps2eps -f macarthur-road.ps
 epstopdf macarthur-road.eps
+abcm2ps -O = -s 0.7   john-stensons-2.abc 
+ps2eps -f john-stensons-2.ps
+epstopdf john-stensons-2.eps
+abcm2ps -O = -s 0.7   lady-anne-montgomery.abc 
+ps2eps -f lady-anne-montgomery.ps
+epstopdf lady-anne-montgomery.eps
+abcm2ps -O = -s 0.7   the-merry-blacksmith.abc 
+ps2eps -f the-merry-blacksmith.ps
+epstopdf the-merry-blacksmith.eps
+abcm2ps -O = -s 0.7   the-golden-keyboard.abc 
+ps2eps -f the-golden-keyboard.ps
+epstopdf the-golden-keyboard.eps
+abcm2ps -O = -s 0.7   the-sligo-maid.abc 
+ps2eps -f the-sligo-maid.ps
+epstopdf the-sligo-maid.eps
+abcm2ps -O = -s 0.7   the-holly-bush.abc 
+ps2eps -f the-holly-bush.ps
+epstopdf the-holly-bush.eps
+abcm2ps -O = -s 0.7   the-green-fields-of-rossbeigh.abc 
+ps2eps -f the-green-fields-of-rossbeigh.ps
+epstopdf the-green-fields-of-rossbeigh.eps
+abcm2ps -O = -s 0.7   the-humours-of-lissadell.abc 
+ps2eps -f the-humours-of-lissadell.ps
+epstopdf the-humours-of-lissadell.eps
+abcm2ps -O = -s 0.7   devannys-goat.abc 
+ps2eps -f devannys-goat.ps
+epstopdf devannys-goat.eps
+abcm2ps -O = -s 0.7   farrel-o-garas.abc 
+ps2eps -f farrel-o-garas.ps
+epstopdf farrel-o-garas.eps
+abcm2ps -O = -s 0.7   the-london-lasses.abc 
+ps2eps -f the-london-lasses.ps
+epstopdf the-london-lasses.eps
+abcm2ps -O = -s 0.7   the-star-of-munster.abc 
+ps2eps -f the-star-of-munster.ps
+epstopdf the-star-of-munster.eps
 abcm2ps -O = -s 0.7   the-spey-in-spate.abc 
 ps2eps -f the-spey-in-spate.ps
 epstopdf the-spey-in-spate.eps
@@ -280,6 +343,9 @@ epstopdf hommage-a-edmond-parizeau.eps
 abcm2ps -O = -s 0.7   hommage-a-philippe-bruneau.abc 
 ps2eps -f hommage-a-philippe-bruneau.ps
 epstopdf hommage-a-philippe-bruneau.eps
+abcm2ps -O = -s 0.7   pachelbels-frolics.abc 
+ps2eps -f pachelbels-frolics.ps
+epstopdf pachelbels-frolics.eps
 abcm2ps -O = -s 0.7   the-millers-reel.abc 
 ps2eps -f the-millers-reel.ps
 epstopdf the-millers-reel.eps
@@ -289,9 +355,12 @@ epstopdf big-john-macneill.eps
 abcm2ps -O = -s 0.7   deil-among-the-tailors.abc 
 ps2eps -f deil-among-the-tailors.ps
 epstopdf deil-among-the-tailors.eps
-abcm2ps -O = -s 0.7   pachelbels-frolics.abc 
-ps2eps -f pachelbels-frolics.ps
-epstopdf pachelbels-frolics.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-cup-of-tea.abc 
+ps2eps -f the-cup-of-tea.ps
+epstopdf the-cup-of-tea.eps
+abcm2ps -O = -s 0.7 -d 40pt   mayor-harrisons-fedora.abc 
+ps2eps -f mayor-harrisons-fedora.ps
+epstopdf mayor-harrisons-fedora.eps
 abcm2ps -O = -s 0.7   brenda-stubberts.abc 
 ps2eps -f brenda-stubberts.ps
 epstopdf brenda-stubberts.eps
@@ -343,15 +412,6 @@ epstopdf the-bungalow.eps
 abcm2ps -O = -s 0.7   annie-is-my-darling.abc 
 ps2eps -f annie-is-my-darling.ps
 epstopdf annie-is-my-darling.eps
-abcm2ps -O = -s 0.7   my-nannie-o.abc 
-ps2eps -f my-nannie-o.ps
-epstopdf my-nannie-o.eps
-abcm2ps -O = -s 0.7   the-mill-mill-o.abc 
-ps2eps -f the-mill-mill-o.ps
-epstopdf the-mill-mill-o.eps
-abcm2ps -O = -s 0.7   green-grow-the-rashes-o.abc 
-ps2eps -f green-grow-the-rashes-o.ps
-epstopdf green-grow-the-rashes-o.eps
 abcm2ps -O = -s 0.7 -d 40pt   the-east-neuk-o-fife.abc 
 ps2eps -f the-east-neuk-o-fife.ps
 epstopdf the-east-neuk-o-fife.eps
@@ -382,12 +442,6 @@ epstopdf james-browns.eps
 abcm2ps -O = -s 0.7   marche-du-mont-saint-louis.abc 
 ps2eps -f marche-du-mont-saint-louis.ps
 epstopdf marche-du-mont-saint-louis.eps
-abcm2ps -O = -s 0.7   a-mans-a-man.abc 
-ps2eps -f a-mans-a-man.ps
-epstopdf a-mans-a-man.eps
-abcm2ps -O = -s 0.7   tripping-on-the-mountain.abc 
-ps2eps -f tripping-on-the-mountain.ps
-epstopdf tripping-on-the-mountain.eps
 abcm2ps -O = -s 0.65 -d 40pt   johnny-pringle.abc 
 ps2eps -f johnny-pringle.ps
 epstopdf johnny-pringle.eps
@@ -418,36 +472,6 @@ epstopdf jessie-smith.eps
 abcm2ps -O = -s 0.7 -d 40pt   lady-mary-ramsay.abc 
 ps2eps -f lady-mary-ramsay.ps
 epstopdf lady-mary-ramsay.eps
-abcm2ps -O = -s 0.7   flatworld.abc 
-ps2eps -f flatworld.ps
-epstopdf flatworld.eps
-abcm2ps -O = -s 0.7   gostas-vals.abc 
-ps2eps -f gostas-vals.ps
-epstopdf gostas-vals.eps
-abcm2ps -O = -s 0.7   maggie-wests.abc 
-ps2eps -f maggie-wests.ps
-epstopdf maggie-wests.eps
-abcm2ps -O = -s 0.7   sundays-well.abc 
-ps2eps -f sundays-well.ps
-epstopdf sundays-well.eps
-abcm2ps -O = -s 0.7   si-bheag-si-mhor.abc 
-ps2eps -f si-bheag-si-mhor.ps
-epstopdf si-bheag-si-mhor.eps
-abcm2ps -O = -s 0.7   the-norwegian-gent.abc 
-ps2eps -f the-norwegian-gent.ps
-epstopdf the-norwegian-gent.eps
-abcm2ps -O = -s 0.7 -d 40pt   midnight-on-the-water.abc 
-ps2eps -f midnight-on-the-water.ps
-epstopdf midnight-on-the-water.eps
-abcm2ps -O = -s 0.7 -d 40pt   flatwater-fran.abc 
-ps2eps -f flatwater-fran.ps
-epstopdf flatwater-fran.eps
-abcm2ps -O = -s 0.7   emmas-waltz.abc 
-ps2eps -f emmas-waltz.ps
-epstopdf emmas-waltz.eps
-abcm2ps -O = -s 0.7   les-poules-huppees.abc 
-ps2eps -f les-poules-huppees.ps
-epstopdf les-poules-huppees.eps
 abcm2ps -O = -s 0.65 -d 40pt   kittys-wedding.abc 
 ps2eps -f kittys-wedding.ps
 epstopdf kittys-wedding.eps
@@ -490,6 +514,36 @@ epstopdf the-stage.eps
 abcm2ps -O = -s 0.7   the-western.abc 
 ps2eps -f the-western.ps
 epstopdf the-western.eps
+abcm2ps -O = -s 0.7   flatworld.abc 
+ps2eps -f flatworld.ps
+epstopdf flatworld.eps
+abcm2ps -O = -s 0.7   gostas-vals.abc 
+ps2eps -f gostas-vals.ps
+epstopdf gostas-vals.eps
+abcm2ps -O = -s 0.7   maggie-wests.abc 
+ps2eps -f maggie-wests.ps
+epstopdf maggie-wests.eps
+abcm2ps -O = -s 0.7   sundays-well.abc 
+ps2eps -f sundays-well.ps
+epstopdf sundays-well.eps
+abcm2ps -O = -s 0.7   si-bheag-si-mhor.abc 
+ps2eps -f si-bheag-si-mhor.ps
+epstopdf si-bheag-si-mhor.eps
+abcm2ps -O = -s 0.7   the-norwegian-gent.abc 
+ps2eps -f the-norwegian-gent.ps
+epstopdf the-norwegian-gent.eps
+abcm2ps -O = -s 0.7 -d 40pt   midnight-on-the-water.abc 
+ps2eps -f midnight-on-the-water.ps
+epstopdf midnight-on-the-water.eps
+abcm2ps -O = -s 0.7 -d 40pt   flatwater-fran.abc 
+ps2eps -f flatwater-fran.ps
+epstopdf flatwater-fran.eps
+abcm2ps -O = -s 0.7   emmas-waltz.abc 
+ps2eps -f emmas-waltz.ps
+epstopdf emmas-waltz.eps
+abcm2ps -O = -s 0.7   les-poules-huppees.abc 
+ps2eps -f les-poules-huppees.ps
+epstopdf les-poules-huppees.eps
 abcm2ps -O = -s 0.7   the-new-green-dress.abc 
 ps2eps -f the-new-green-dress.ps
 epstopdf the-new-green-dress.eps
@@ -526,6 +580,15 @@ epstopdf a-dram-at-the-wake.eps
 abcm2ps -O = -s 0.7   jessicas.abc 
 ps2eps -f jessicas.ps
 epstopdf jessicas.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-p-and-o.abc 
+ps2eps -f the-p-and-o.ps
+epstopdf the-p-and-o.eps
+abcm2ps -O = -s 0.7 -d 40pt   ill-buy-boots-for-maggie.abc 
+ps2eps -f ill-buy-boots-for-maggie.ps
+epstopdf ill-buy-boots-for-maggie.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-upperchurch.abc 
+ps2eps -f the-upperchurch.ps
+epstopdf the-upperchurch.eps
 abcm2ps -O = -s 0.7 -d 40pt   bourree-de-montfort.abc 
 ps2eps -f bourree-de-montfort.ps
 epstopdf bourree-de-montfort.eps
