@@ -82,6 +82,18 @@ epstopdf the-banks-of-lough-gowna.eps
 abcm2ps -O = -s 0.7   the-cordal.abc 
 ps2eps -f the-cordal.ps
 epstopdf the-cordal.eps
+abcm2ps -O = -s 0.7   the-haunted-house.abc 
+ps2eps -f the-haunted-house.ps
+epstopdf the-haunted-house.eps
+abcm2ps -O = -s 0.7   the-tar-road-to-sligo.abc 
+ps2eps -f the-tar-road-to-sligo.ps
+epstopdf the-tar-road-to-sligo.eps
+abcm2ps -O = -s 0.7   the-bank-of-turf.abc 
+ps2eps -f the-bank-of-turf.ps
+epstopdf the-bank-of-turf.eps
+abcm2ps -O = -s 0.7   the-donegal-lass.abc 
+ps2eps -f the-donegal-lass.ps
+epstopdf the-donegal-lass.eps
 abcm2ps -O = -s 0.65 -d 40pt   dearest-dickie.abc 
 ps2eps -f dearest-dickie.ps
 epstopdf dearest-dickie.eps
