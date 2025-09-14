@@ -61,15 +61,6 @@ epstopdf the-scotsman-over-the-border.eps
 abcm2ps -O = -s 0.7   mcgoldricks.abc 
 ps2eps -f mcgoldricks.ps
 epstopdf mcgoldricks.eps
-abcm2ps -O = -s 0.7 -d 40pt   i-neer-shall-wean-her.abc 
-ps2eps -f i-neer-shall-wean-her.ps
-epstopdf i-neer-shall-wean-her.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-castle.abc 
-ps2eps -f the-castle.ps
-epstopdf the-castle.eps
-abcm2ps -O = -s 0.7 -d 40pt   mcintyres-fancy.abc 
-ps2eps -f mcintyres-fancy.ps
-epstopdf mcintyres-fancy.eps
 abcm2ps -O = -s 0.7   the-cliffs-of-moher.abc 
 ps2eps -f the-cliffs-of-moher.ps
 epstopdf the-cliffs-of-moher.eps
@@ -94,6 +85,15 @@ epstopdf the-bank-of-turf.eps
 abcm2ps -O = -s 0.7   the-donegal-lass.abc 
 ps2eps -f the-donegal-lass.ps
 epstopdf the-donegal-lass.eps
+abcm2ps -O = -s 0.7 -d 40pt   i-neer-shall-wean-her.abc 
+ps2eps -f i-neer-shall-wean-her.ps
+epstopdf i-neer-shall-wean-her.eps
+abcm2ps -O = -s 0.7 -d 40pt   the-castle.abc 
+ps2eps -f the-castle.ps
+epstopdf the-castle.eps
+abcm2ps -O = -s 0.7 -d 40pt   mcintyres-fancy.abc 
+ps2eps -f mcintyres-fancy.ps
+epstopdf mcintyres-fancy.eps
 abcm2ps -O = -s 0.65 -d 40pt   dearest-dickie.abc 
 ps2eps -f dearest-dickie.ps
 epstopdf dearest-dickie.eps
@@ -106,6 +106,9 @@ epstopdf the-cook-in-the-kitchen.eps
 abcm2ps -O = -s 0.7 -d 40pt   the-random.abc 
 ps2eps -f the-random.ps
 epstopdf the-random.eps
+abcm2ps -O = -s 0.7 -d 40pt   fifty-pound-cashback.abc 
+ps2eps -f fifty-pound-cashback.ps
+epstopdf fifty-pound-cashback.eps
 abcm2ps -O = -s 0.7 -d 40pt   merrily-kiss-the-quaker.abc 
 ps2eps -f merrily-kiss-the-quaker.ps
 epstopdf merrily-kiss-the-quaker.eps
@@ -130,9 +133,6 @@ epstopdf den-toppede-hone-fra-vensyssel.eps
 abcm2ps -O = -s 0.7 -d 40pt   kadril-van-mechelen.abc 
 ps2eps -f kadril-van-mechelen.ps
 epstopdf kadril-van-mechelen.eps
-abcm2ps -O = -s 0.7   fifty-pound-cashback.abc 
-ps2eps -f fifty-pound-cashback.ps
-epstopdf fifty-pound-cashback.eps
 abcm2ps -O = -s 0.7   horizonto.abc 
 ps2eps -f horizonto.ps
 epstopdf horizonto.eps
@@ -394,15 +394,6 @@ epstopdf the-bear-in-the-buckwheat.eps
 abcm2ps -O = -s 0.7   an-oidche-bha-na-gobhair-aguin.abc 
 ps2eps -f an-oidche-bha-na-gobhair-aguin.ps
 epstopdf an-oidche-bha-na-gobhair-aguin.eps
-abcm2ps -O = -s 0.7   coire-an-lochan.abc 
-ps2eps -f coire-an-lochan.ps
-epstopdf coire-an-lochan.eps
-abcm2ps -O = -s 0.7   put-me-in-the-big-chest.abc 
-ps2eps -f put-me-in-the-big-chest.ps
-epstopdf put-me-in-the-big-chest.eps
-abcm2ps -O = -s 0.7   mrs-macleod-of-raasay.abc 
-ps2eps -f mrs-macleod-of-raasay.ps
-epstopdf mrs-macleod-of-raasay.eps
 abcm2ps -O = -s 0.7   jamie-hardie.abc 
 ps2eps -f jamie-hardie.ps
 epstopdf jamie-hardie.eps
@@ -415,6 +406,15 @@ epstopdf jenny-dang-the-weaver.eps
 abcm2ps -O = -s 0.7   jamie-shearer.abc 
 ps2eps -f jamie-shearer.ps
 epstopdf jamie-shearer.eps
+abcm2ps -O = -s 0.7   coire-an-lochan.abc 
+ps2eps -f coire-an-lochan.ps
+epstopdf coire-an-lochan.eps
+abcm2ps -O = -s 0.7   put-me-in-the-big-chest.abc 
+ps2eps -f put-me-in-the-big-chest.ps
+epstopdf put-me-in-the-big-chest.eps
+abcm2ps -O = -s 0.7   mrs-macleod-of-raasay.abc 
+ps2eps -f mrs-macleod-of-raasay.ps
+epstopdf mrs-macleod-of-raasay.eps
 abcm2ps -O = -s 0.7   lady-muir-mackenzie.abc 
 ps2eps -f lady-muir-mackenzie.ps
 epstopdf lady-muir-mackenzie.eps
