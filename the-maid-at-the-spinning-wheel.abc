@@ -5,11 +5,11 @@ R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-D|:GBG BcA|BcA B2D|GBG BcA|F2G AFD|
-GBG BcA|BcA Bge|fed cAF|1 GAG G2D:|2 GAG Gdc||
-|:BAG AFD|~D3 AFD|~D3 AFD|EFG ABc|
-BAG AFD|~D3 FEF|ded cAF|1 GAG Gdc:|2 GAG G2D||
-|:GBd gba|gdB ecA|ded cAG|F2G AFD|
-GBd gba|gdB ede|fed cAF|1 GAG G2D:|2 GAG Gdc||
-|:BAG Aed|Bed Aed|Bed AFD|EFG ABc|
-BAG AFD|~D3 FEF|ded cAF|1 GAG Gdc:|2 GAG G2D|| 
+D|:"G"~G3 ~B3|BcA B2D|G2 A BAG|"D"F2G AFD|
+"G"~G3 ~B3|BcA Bge|fed "C"cAF|1 "D"AGF "G"G2D:|2 "D"AGF "G"Gdc||
+|:"G"BAG "D"AFD|~D3 AFD|~D3 AFD|EFG ABc|
+"G"BAG "D"AFD|~D3 AGA|"C"ded cAF|1 "D"AGF "G"Gdc:|2 AGF "G"G2D||
+|:"G"GBd gba|gdB ecA|dBG cAG|"D"F2G AFD|
+"G"GBd gba|gdB ecA|fed "C"cAF|1 "D"AGF "G"G2D:|2 "D"AGF "G"Gdc||
+|:"G"BAG "D"Aed|"G"Bed "D"Aed|"G"Bed "D"AFD|"C"EFG ABc|
+"G"BAG "D"AFD|~D3 AGA|"C"ded cAF|1 "D"AGF "G"Gdc:|2 "D"AGF "G"G2D|| 

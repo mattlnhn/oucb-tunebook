@@ -5,8 +5,8 @@ R: slip jig
 M: 9/8
 L: 1/8
 K: Gmaj
-|:FGA AFA c2A|BAG F/G/AF GED|FGA AFA d2A|d/e/fe dcA GED:|
-|:d^cd ege d2A|d^cd fdf ~g3|{b}a2a ged c2A|BAG F/G/AF GED:|
-|:FGA AFd AFd|AFd AFD GED|FGA AFA c2A|BAG F/G/AF GED:|
-|:~D3 ~D3 c3|c2B c2A GED|~D3 ~D3 d2^c|d/g/fe dcA GED:|
-|:d^cd ege c2A|d^cd fdf ~g3|~a3 ged c2A|BAG F/G/AF GED:| 
+|:"D"FGA AFA "C"c2A|"G"BAG "D"F/G/AF GED|"D"FGA AFA d2A|d/e/fe dcA GED:|
+|:"D"d^cd ege d2A|d^cd fdf "G"~g3|"D"{b}a2a ged "C"c2A|"(G)"BAG "D"F/G/AF GED:|
+|:"D"FGA AFd AFd|AFd AFD GED|FGA AFA "C"c2A|"(G)"BAG "D"F/G/AF GED:|
+|:"D"~D3 ~D3 "C"c3|c2B c2A GED|"D"~D3 ~D3 d2^c|d/g/fe dcA GED:|
+|:"D"d^cd ege "C"c2A|"D"d^cd fdf "G"~g3|"D"~a3 ged "C"c2A|"(G)"BAG "D"F/G/AF GED:| 

@@ -6,9 +6,9 @@ R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-|: GdB GdB |Adc Adc|Bgg gfg|baa a2B|
-GdB GdB |Adc Adc|Bgg fef|1agg g2B:|2 agg gfg||
-b3 g3|a3 a^ga|c'3 f3|agg gfg|
-b3 g3|a3 a^ga|c'3 f3|gba gfe|
-|:~d3 cBc|~d3 cBc|d2B g2d|bag fed|
-~c3 AFA|~c3AFA| ced cBA |1 GBA GBc:| [2 GBA G3||
+|: "G"GdB GdB |"D"Adc Adc|"G"Bgg gfg|"D"baa a2B|
+"G"GdB GdB |"D"Adc Adc|"G"Bgg "D"fef|1"G"agg g2B:|2 "G"agg gfg||
+"G"b3 g3|"D"a3 a^ga|"C"c'3 f3|"G"agg gfg|
+"G"b3 g3|"D"a3 a^ga|"C"c'3 f3|"G"gba gfe|
+|:"G"~d3 cBc|~d3 cBc|d2B g2d|bag fed|
+"C"~c3 AFA|~c3AFA| ced cBA |1 "D"GBA "G"GBc:| [2 "D"GBA "G"G3||

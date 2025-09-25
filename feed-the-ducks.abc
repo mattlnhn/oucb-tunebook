@@ -5,9 +5,9 @@ R: jig
 M: 6/8
 L: 1/8
 K: Amaj
-~E2 A ABc|BAF FEF|AeA ~f2 e|ecA BAF|
-~E2 A ABc|BAF FEF|A2 f ecA|1 BAF A^GF:|2 BAF A {Bce}||
-~f3 fec|efe ~a2 f|ecA EFD|CEA cea|
-~f3 fec|efe ~a2 f|ecA ~f2 e|ecA cde|
-~f3 fec|efe ~a2 f|ecA EFD|CEA cAB|
-~A3 ~f2 e|~A3 ~f2 e|~A3 ~f2 e|z2 c BAF|| 
+"A"~E2 A ABc|BAF FEF|AeA "D"~f2 e|ecA "E"BAF|
+"A"~E2 A ABc|BAF FEF|"D"A2 f ecA|1 "E"BAF "A"A^GF:|2 "E"BAF "A"A {Bce}||
+"D"~f3 fec|efe ~a2 f|"A"ecA EFD|CEA cea|
+"D"~f3 fec|efe ~a2 f|"A"ecA "D"~f2 e|"A"ecA cde|
+"D"~f3 fec|efe ~a2 f|"A"ecA EFD|CEA cAB|
+"D"~A3 ~f2 e|~A3 ~f2 e|~A3 ~f2 e|z2 c BAF|| 

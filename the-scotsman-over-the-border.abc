@@ -5,7 +5,7 @@ R: jig
 M: 6/8
 L: 1/8
 K: Dmix
-DED FDF|AFA d2c|~B3 BAB|def edB|
-ADD FDF|AFA d2c|~B3 AFA|dAF EFE:|
-|:dfa afa|bag ~f2e|dfa afe|def edB|
-dfa afa|bag ~f2e|d2B AFA|dAF ~E3:| 
+"D"DED FDF|AFA d2c|"G"~B3 BAB|def "A"edB|
+"D"DED FDF|AFA d2c|"G"~B3 AFA|dAF "A"EFE:|
+|:"D"dfa afa|bag ~e2e|dfa afe|def "A"edB|
+"D"dfa afa|bag ~e2e|"G"d2B AFA|dAF "A"~E3:| 

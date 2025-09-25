@@ -5,7 +5,7 @@ R: jig
 M: 6/8
 L: 1/8
 K: Amaj
-f|ecA BAF|AFE EFA|Bdc BAB|cBB B2f|
-ecA BAF|AFE EFA|Bdc BAB|cAA A2:|
-A|cee dff|cee ecA|cee dff|ecA B2A|
-cee dff|cee ecA|Bdc BAB|cAA A2:| 
+f|"A"ecA BAF|AFE EFA|"D"Bdc BAB|"E"cBB B2f|
+"A"ecA BAF|AFE EFA|"D"Bdc BAB|"E"cAA "A"A2:|
+A|"A"cee "D"dff|"A"cee ecA|cee "D"dff|"A"ecA "E"B2A|
+"A"cee "D"dff|"A"cee ecA|"D"Bdc BAB|"E"cAA "A"A2:| 

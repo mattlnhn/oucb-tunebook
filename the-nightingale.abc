@@ -5,8 +5,8 @@ R: jig
 M: 6/8
 L: 1/8
 K: Ador
-|:EAA A2B|cAd cAG|EDE GFG|GBd GFG|
-EAA A2B|cAB cde|g3 e/f/ge|dBG A2:|
-|:a|aea aef|gdg gdg|aea aef|gfe def|
-[1aea aef|gdg gdg|g3 e/f/ge|dBG A2:|
-[2g2e fed|edB GBd|g3 e/f/ge|dBG A2|| 
+|:"Am"EAA A2B|cAd cAG|"G"EDE GFG|GBd GFG|
+"Am"EAA A2B|cAB cde|"G"g3 e/f/ge|"D"dBG "Am"A2:|
+|:a|"Am"aea aef|"G"gdg gdg|"Am"aea aef|"G"gfe "D"def|
+[1"Am"aea aef|"G"gdg gdg|g3 e/f/ge|dBG "Am"A2:|
+[2"G"g2e fed|edB GBd|g3 e/f/ge|dBG "Am"A2|| 

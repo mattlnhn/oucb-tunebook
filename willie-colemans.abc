@@ -5,7 +5,7 @@ R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-B2G AGE|GED G2d|edB dgb|age dBA|
-B2G AGE|GED G2d|edB dBA|BGG G3:|
-~g3 edB|dgb age|~g3 edB|GBd e3|
-~g3 edB|dgb age|dBd gdB|AGF G3:| 
+"G"B2G AGE|GED G2d|"C"edB dgb|"D"age dBA|
+B2G AGE|GED G2d|"C"edB dBA|"D"AGE "G"G3:|
+"G"~g3 edB|dgb age|~g3 edB|GBd "C"e3|
+"G"~g3 edB|dgb age|"C"dBd gdB|"D"AGF "G"G3:| 

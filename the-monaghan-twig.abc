@@ -5,6 +5,6 @@ R: reel
 M: 4/4
 L: 1/8
 K: Amix
-|:cAAB cded|cAAG ~E3B|cAAB cded|BAGB d2ed:|
-cdef gfed|(3Bcd ef ~e3d|cdef ~g3e|dBGB d2ed|
-cded cded|cAAB cdef|~g3e deed|BAGB d2ed|| 
+|:"A"cAAB cded|cAAG ~E3B|cAAB cded|"G"BAGB "D"d2ed:|
+"A"cdef gfed|(3Bcd ef ~e3d|cdef "G"~g3e|dBGB "D"d2ed|
+"A"cded cded|cAAB cdef|"G"~g3e deed|BAGB "D"d2ed|| 

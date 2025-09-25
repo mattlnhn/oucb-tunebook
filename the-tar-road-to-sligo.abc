@@ -5,8 +5,8 @@ R: jig
 M: 6/8
 L: 1/8
 K: Dmaj
-|:e|fdB Bcd|ecA BAG|FGA ABc|dcd efg|
-fdB Bcd|ecA BAG|FGA Aag|fdc d2:|
-|:B|Adf Adf|gfg efg|afd dcd|Bed cBA|
-[1 Adf Adf|gfg efg|afd bge|edc d2:|
-[2 fdB gec|~a3 bge|~a3 bge|edc d2|| 
+|:e|"Bm"fdB Bcd|"A"ecA BAG|"D"FGA ABc|dcd efg|
+"Bm"fdB Bcd|"A"ecA BAG|"D"FGA Aag|fdc d2:|
+|:B|"D"Adf Adf|"G"gfg efg|"D"afd dcd|Bed "A"cBA|
+[1 "D"Adf Adf|"G"gfg efg|"D"afd "G"bge|"A"edc "D"d2:|
+[2 "D"fdB "G"gec|"D"~a3 bge|~a3 bge|"A"edc "D"d2|| 

@@ -5,7 +5,7 @@ R: jig
 M: 6/8
 L: 1/8
 K: Bmin
-|:BcB BAF|FEF DFA|BcB BAF|d2e fed|
-BcB BAF|FEF DFA|def geg|1 fdB Bdc:|2 fdB ~B3||
-|:def ~a3|afb afe|dFA def|geg fdB|
-def ~a3|afb afe|def geg|1 fdB ~B3:|2 fdB Bdc|| 
+|:"Bm"BcB BAF|FEF DFA|BcB BAF|"D"d2e fed|
+"Bm"BcB BAF|FEF DFA|"D"def geg|1 fdB "Bm"Bdc:|2 fdB ~B3||
+|:"D"def ~a3|afb afe|dFA def|"G"geg fdB|
+"D"def ~a3|afb afe|"G"def geg|1 fdB "Bm"~B3:|2 fdB Bdc|| 

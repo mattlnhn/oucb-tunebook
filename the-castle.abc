@@ -5,7 +5,7 @@ R: jig
 M: 6/8
 L: 1/8
 K: Ador
-|:~c3 BAG|AGE DB,G,|~A,3 EDB,|DEG AGE|
-cBA BAG|AGE DB,G,|A,2 E EDE|DB,G, A,2 B:|
-|:cBA ~a3|bag edB|GBd ~g3|GBd cBA|
-cBc dcd|ede gab|age dBG|EFG A2 B:| 
+|:"Am"~c3 BAG|AGE DB,G,|~A,3 EDB,|DEG AGE|
+"Am"cBA BAG|AGE DB,G,|A,2 E EDE|DB,G, A,2 B:|
+|:"Am"cBA ~a3|bag edB|"G"GBd ~g3|GBd cBA|
+"Am"cBc "G"dcd|"Am"ede "G"gab|"Am"age "G"dBG|"D"EFG "Am"A2 B:| 
