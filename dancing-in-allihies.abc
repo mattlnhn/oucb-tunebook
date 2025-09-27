@@ -5,9 +5,9 @@ R: reel
 M: 4/4
 L: 1/8
 K: Emin
-e2 dB e2 dB|e2 dB A2 Be|d2 BA BEEE|F2 BA dBAF|
-EFed BBBd|e2 dB A2 Be|d2 BA BEEE|F2 BA FEEE:|
-edfd edfd|e2 de BBBe|d2 BA BEEE|F2 BA dBAF|
-EFed fded|e2 de BBBe|d2 BA BEEE|F2 BA FEEE|
-edfd edfd|e2 de BBBe|d2 BA BEEE|F2 BA d^cde|
+"Em"e2 dB e2 dB|e2 dB A2 Be|"Bm"d2 BA BEEE|F2 BA dBAF|
+"Em"EFed BBBd|e2 dB A2 Be|"Bm"d2 BA BEEE|F2 BA ""EmFEEE:|
+"Em"edfd edfd|e2 de BBBe|"Bm"d2 BA BEEE|F2 BA dBAF|
+"Em"EFed fded|e2 de BBBe|"Bm"d2 BA BEEE|F2 BA "Em"FEEE|
+"Em"edfd edfd|e2 de BBBe|"Bm"d2 BA BEEE|F2 BA d^cde|
 fffb afea|f2 ed edBd|f2 ed edBA|FdBA FEEE|| 

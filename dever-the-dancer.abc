@@ -5,5 +5,5 @@ R: slip jig
 M: 9/8
 L: 1/8
 K: Emin
-|:BEE BEF G2A|BEE BAG FGA|BEE BEF G2A|Bcd ABG FED:|
-|:ded cAF G2A|{B}ded def gfe|ded cAF G2A|Bcd ABG FED:| 
+|:"Em"BEE BEF "D"G2A|"Em"BEE BAG "D"FGA|"Em"BEE BEF "D"G2A|"G"Bcd "D"ABG FED:|
+|:"D"ded "C"cAF "G"G2A|"D"{B}ded def "G"gfe|"D"ded "C"cAF "G"G2A|"G"Bcd "D"ABG FED:| 
