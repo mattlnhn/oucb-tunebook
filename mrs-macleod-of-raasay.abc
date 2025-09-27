@@ -5,7 +5,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Amaj
-cB|:A2 a2 fefa|c2cB cdcB|A2 a2 fefa|B2BA BdcB|
-A2 a2 fefa|c2cB cd e2|f2fg fefg|afec BdcB:|
-|:ABcd eAcA|c2cB cdcB|ABcd eAcA| B2BA BdcB|
-ABcd eAcA|c2cB cde2|f2fg fefg|afec BdcB:|
+cB|:"A"A2 a2 fefa|c2cB cdcB|A2 a2 "D"fefa|"E"B2BA BdcB|
+"A"A2 a2 fefa|c2cB cd e2|"D"f2fg fefg|afec "E"BdcB:|
+|:"A"ABcd eAcA|c2cB cdcB|ABcd eAcA|"E"B2BA BdcB|
+"A"ABcd eAcA|c2cB cde2|"D"f2fg fefg|afec "E"BdcB:|

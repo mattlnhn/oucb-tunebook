@@ -5,9 +5,9 @@ R: reel
 M: 4/4
 L: 1/8
 K: Dmaj
-|:A,D (3DDD A,DFA|BFAF E2 (3ABc|d2cA BdAF|(3GFE FD EDB,D|
-A,D (3DDD A,DFA|BFAF EFAc|cdcd BdAF|1 GFEG FDB,D:|2 GFEG FDD2||
-fd (3ddd fdgd|fd (3ddd edBc|dBBA Bcde|fagf e3d|
-fd (3ddd fdgd|fd (3ddd edBc|dBBA BdAF|GFEG FDD2|
-fd (3ddd fdgd|fd (3ddd edBc|dBBA Bcde|fagf ef (3gfe|
-a3f edBc|dfed BAFA|A,D (3DDD A,DFA|BFAF D2DB,|| 
+|:"D"A,D (3DDD A,DFA|BFAF E2 (3ABc|"G"d2cA BdAF|"A"(3GFE FD EDB,D|
+"D"A,D (3DDD A,DFA|BFAF EFAc|"G"cdcd BdAF|1 "A"GFEG "D"FDB,D:|2 "A"GFEG "D"FDD2||
+"D"fd (3ddd fdgd|fd (3ddd edBc|"G"dBBA Bcde|fagf "A"e3d|
+"D"fd (3ddd fdgd|fd (3ddd edBc|"G"dBBA BdAF|"A"GFEG "D"FDD2|
+"D"fd (3ddd fdgd|fd (3ddd edBc|"G"dBBA Bcde|fagf "A"ef (3gfe|
+"D"a3f edBc|"G"dfed BAFA|"D"A,D (3DDD A,DFA|"G"BF"A"AF "D"D2DB,|| 

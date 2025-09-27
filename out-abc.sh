@@ -94,6 +94,9 @@ epstopdf the-castle.eps
 abcm2ps -O = -s 0.7 -d 40pt   mcintyres-fancy.abc 
 ps2eps -f mcintyres-fancy.ps
 epstopdf mcintyres-fancy.eps
+abcm2ps -O = -s 0.65 -d 40pt   the-oyster-girl.abc 
+ps2eps -f the-oyster-girl.ps
+epstopdf the-oyster-girl.eps
 abcm2ps -O = -s 0.65 -d 40pt   dearest-dickie.abc 
 ps2eps -f dearest-dickie.ps
 epstopdf dearest-dickie.eps
@@ -604,9 +607,9 @@ epstopdf the-p-and-o.eps
 abcm2ps -O = -s 0.7 -d 40pt   ill-buy-boots-for-maggie.abc 
 ps2eps -f ill-buy-boots-for-maggie.ps
 epstopdf ill-buy-boots-for-maggie.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-upperchurch.abc 
-ps2eps -f the-upperchurch.ps
-epstopdf the-upperchurch.eps
+abcm2ps -O = -s 0.7 -d 40pt   din-tarrants.abc 
+ps2eps -f din-tarrants.ps
+epstopdf din-tarrants.eps
 abcm2ps -O = -s 0.7 -d 40pt   bourree-de-montfort.abc 
 ps2eps -f bourree-de-montfort.ps
 epstopdf bourree-de-montfort.eps

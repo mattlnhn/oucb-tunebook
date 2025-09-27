@@ -4,7 +4,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Cmaj
-|:((3GAB)|(cB)cd (cd)ef|(g^f)ga (ge)dc|(AG)AB (cd)cA|(GE)cA (GE)CE|
-(FE)FG (AG)AB|(cB)cd (eg)ag|(fe)dc (Ac)Bd|edcB c2:|
-|:(gf)|egcg egcg|dgBg dgBg|ceAe ceAe|GcEc GcEc|
-(FE)FG (AG)AB|(cB)cd (eg)ag|(fe)dc (Ac)Bd|edcB c2:| 
+|:((3GAB)|"C"cBcd cdef|"G"g^fga gedc|"Am"AGAB cdcA|"Em"GEcA GECE|
+"F"FEFG AGAB|"C"cBcd egag|"F"fedc AcBd|"G"edcB "C"c2:|
+|:gf|"C"egcg egcg|"G"dgBg dgBg|"Am"ceAe ceAe|"Em"GcEc GcEc|
+"F"FEFG AGAB|"C"cBcd egag|"F"fedc AcBd|"G"edcB "C"c2:| 

@@ -5,7 +5,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Gmaj
-|:G3 B d2 Bd|eaag eg g2|G3 B dGBd|egdB AGEF|
-G3 B d2 Bd|eaag efga|bgag egfa|1 gedB AGED:|2 gedB AGEF||
-|:g2 fg edBe|dG G2 dGBd|g2 fg efge|dBGA BA A2|
-g2 fg efge|dB B2 dega|bgag egfa|1 gedB AGED:|2 gedB AGEF|| 
+|:"G"G3 B d2 Bd|eaag eg g2|G3 B dGBd|"C"egdB "D"AGEF|
+"G"G3 B d2 Bd|eaag efga|"C"bgag egfa|1 gedB "D"AGED:|2 gedB "D"AGEF||
+|:"G"g2 fg edBe|dG G2 dGBd|g2 fg efge|"C"dBGA "D"BA A2|
+"G"g2 fg efge|dB B2 dega|"C"bgag egfa|1 gedB "D"AGED:|2 gedB "D"AGEF|| 

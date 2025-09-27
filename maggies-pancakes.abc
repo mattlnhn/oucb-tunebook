@@ -5,7 +5,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Bmin
-|:fB~B2 fgfe|dB~B2 GBdB|cAAd AAec|AfdB ecAe|
-fB~B2 fgfe|dB~B2 GBdB|cABc ABce|afec B2de:|
-|:~f2dB GBdB|caec dB~B2|~f2dB GBdB|caec Bcde|
-fd~d2 fgfe|dB~B2 GBdB|cAdA eAce|afec B2de:| 
+|:"Bm"fB~B2 fgfe|dB~B2 GBdB|"A"cAAd AAec|AfdB ecAe|
+"Bm"fB~B2 fgfe|dB~B2 GBdB|"A"cABc ABce|afec "Bm"B2de:|
+|:"Bm"~f2dB GBdB|caec dB~B2|~f2dB GBdB|caec Bcde|
+"D"fd~d2 fgfe|dB~B2 GBdB|"A"cAdA eAce|afec "Bm"B2de:| 
