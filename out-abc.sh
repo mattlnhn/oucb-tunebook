@@ -94,10 +94,10 @@ epstopdf the-castle.eps
 abcm2ps -O = -s 0.7 -d 40pt   mcintyres-fancy.abc 
 ps2eps -f mcintyres-fancy.ps
 epstopdf mcintyres-fancy.eps
-abcm2ps -O = -s 0.65 -d 40pt   the-oyster-girl.abc 
+abcm2ps -O = -s 0.7   the-oyster-girl.abc 
 ps2eps -f the-oyster-girl.ps
 epstopdf the-oyster-girl.eps
-abcm2ps -O = -s 0.65 -d 40pt   dearest-dickie.abc 
+abcm2ps -O = -s 0.7   dearest-dickie.abc 
 ps2eps -f dearest-dickie.ps
 epstopdf dearest-dickie.eps
 abcm2ps -O = -s 0.7 -d 40pt   the-pipe-on-the-hob.abc 
