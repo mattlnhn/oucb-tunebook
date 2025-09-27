@@ -34,13 +34,13 @@ epstopdf the-gathering.eps
 abcm2ps -O = -s 0.7   the-handsome-young-maidens.abc 
 ps2eps -f the-handsome-young-maidens.ps
 epstopdf the-handsome-young-maidens.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-rambler.abc 
+abcm2ps -O = -s 0.675 -d 40pt   the-rambler.abc 
 ps2eps -f the-rambler.ps
 epstopdf the-rambler.eps
-abcm2ps -O = -s 0.7 -d 40pt   health-to-the-ladies.abc 
+abcm2ps -O = -s 0.675 -d 40pt   health-to-the-ladies.abc 
 ps2eps -f health-to-the-ladies.ps
 epstopdf health-to-the-ladies.eps
-abcm2ps -O = -s 0.7 -d 40pt   rosewood.abc 
+abcm2ps -O = -s 0.675 -d 40pt   rosewood.abc 
 ps2eps -f rosewood.ps
 epstopdf rosewood.eps
 abcm2ps -O = -s 0.7   feed-the-ducks.abc 
@@ -85,13 +85,13 @@ epstopdf the-bank-of-turf.eps
 abcm2ps -O = -s 0.7   the-donegal-lass.abc 
 ps2eps -f the-donegal-lass.ps
 epstopdf the-donegal-lass.eps
-abcm2ps -O = -s 0.7 -d 40pt   i-neer-shall-wean-her.abc 
+abcm2ps -O = -s 0.675 -d 40pt   i-neer-shall-wean-her.abc 
 ps2eps -f i-neer-shall-wean-her.ps
 epstopdf i-neer-shall-wean-her.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-castle.abc 
+abcm2ps -O = -s 0.675 -d 40pt   the-castle.abc 
 ps2eps -f the-castle.ps
 epstopdf the-castle.eps
-abcm2ps -O = -s 0.7 -d 40pt   mcintyres-fancy.abc 
+abcm2ps -O = -s 0.675 -d 40pt   mcintyres-fancy.abc 
 ps2eps -f mcintyres-fancy.ps
 epstopdf mcintyres-fancy.eps
 abcm2ps -O = -s 0.7   the-oyster-girl.abc 
@@ -142,10 +142,10 @@ epstopdf horizonto.eps
 abcm2ps -O = -s 0.7   zakynthos.abc 
 ps2eps -f zakynthos.ps
 epstopdf zakynthos.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-canty-auld-man.abc 
+abcm2ps -O = -s 0.675 -d 40pt   the-canty-auld-man.abc 
 ps2eps -f the-canty-auld-man.ps
 epstopdf the-canty-auld-man.eps
-abcm2ps -O = -s 0.7 -d 40pt   garcon-volange.abc 
+abcm2ps -O = -s 0.675 -d 40pt   garcon-volange.abc 
 ps2eps -f garcon-volange.ps
 epstopdf garcon-volange.eps
 abcm2ps -O = -s 0.7   the-lark-in-the-morning.abc 
@@ -208,19 +208,19 @@ epstopdf the-red-haired-lass.eps
 abcm2ps -O = -s 0.65 -d 35pt   the-humours-of-tulla.abc 
 ps2eps -f the-humours-of-tulla.ps
 epstopdf the-humours-of-tulla.eps
-abcm2ps -O = -s 0.65s -d 35pt   the-hares-paw.abc 
+abcm2ps -O = -s 0.65 -d 35pt   the-hares-paw.abc 
 ps2eps -f the-hares-paw.ps
 epstopdf the-hares-paw.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-fermoy-lasses.abc 
+abcm2ps -O = -s 0.65 -d 40pt   the-fermoy-lasses.abc 
 ps2eps -f the-fermoy-lasses.ps
 epstopdf the-fermoy-lasses.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-mountain-road.abc 
+abcm2ps -O = -s 0.65 -d 40pt   the-mountain-road.abc 
 ps2eps -f the-mountain-road.ps
 epstopdf the-mountain-road.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-pigtown-fling.abc 
+abcm2ps -O = -s 0.65 -d 40pt   the-pigtown-fling.abc 
 ps2eps -f the-pigtown-fling.ps
 epstopdf the-pigtown-fling.eps
-abcm2ps -O = -s 0.7 -d 40pt   the-monaghan-twig.abc 
+abcm2ps -O = -s 0.65 -d 40pt   the-monaghan-twig.abc 
 ps2eps -f the-monaghan-twig.ps
 epstopdf the-monaghan-twig.eps
 abcm2ps -O = -s 0.7   the-silver-spear.abc 
@@ -319,19 +319,19 @@ epstopdf the-london-lasses.eps
 abcm2ps -O = -s 0.7   the-star-of-munster.abc 
 ps2eps -f the-star-of-munster.ps
 epstopdf the-star-of-munster.eps
-abcm2ps -O = -s 0.7   the-spey-in-spate.abc 
+abcm2ps -O = -s 0.7 -d 40pt   the-spey-in-spate.abc 
 ps2eps -f the-spey-in-spate.ps
 epstopdf the-spey-in-spate.eps
-abcm2ps -O = -s 0.7   lucy-campbell.abc 
+abcm2ps -O = -s 0.7 -d 40pt   lucy-campbell.abc 
 ps2eps -f lucy-campbell.ps
 epstopdf lucy-campbell.eps
-abcm2ps -O = -s 0.7 -d 40pt   good-morning-to-your-nightcap.abc 
+abcm2ps -O = -s 0.675 -d 40pt   good-morning-to-your-nightcap.abc 
 ps2eps -f good-morning-to-your-nightcap.ps
 epstopdf good-morning-to-your-nightcap.eps
-abcm2ps -O = -s 0.7 -d 40pt   maggies-pancakes.abc 
+abcm2ps -O = -s 0.675 -d 40pt   maggies-pancakes.abc 
 ps2eps -f maggies-pancakes.ps
 epstopdf maggies-pancakes.eps
-abcm2ps -O = -s 0.7 -d 40pt   ramnee-ceilidh.abc 
+abcm2ps -O = -s 0.675 -d 40pt   ramnee-ceilidh.abc 
 ps2eps -f ramnee-ceilidh.ps
 epstopdf ramnee-ceilidh.eps
 abcm2ps -O = -s 0.7   islay-rant.abc 
