@@ -9,7 +9,7 @@
 \usepackage{graphicx} % images
 \usepackage{mathptmx} % Times New Roman
 \usepackage{multicol}
-\usepackage{hyperref}
+\usepackage[colorlinks]{hyperref}
 \usepackage{setspace}
 
 \usepackage[noshellescape, generate]{abc}
@@ -647,12 +647,12 @@ Matt \& Charlotte
 
 \centerline{\Large\textbf{Farmers, Goats, and Bears}}
 \centerline{Mixed reels - CR}
-\vspace{2\baselineskip}
-\abcinput[program={abcm2ps -O = -s 0.7}]{the-morayshire-farmers-club}
-\vspace{2\baselineskip}
-\abcinput[program={abcm2ps -O = -s 0.7}]{the-bear-in-the-buckwheat}
-\vspace{2\baselineskip}
-\abcinput[program={abcm2ps -O = -s 0.7}]{an-oidche-bha-na-gobhair-aguin}
+\vspace{1\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-morayshire-farmers-club}
+\vspace{1\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{the-bear-in-the-buckwheat}
+\vspace{1\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7 -d 40pt}]{an-oidche-bha-na-gobhair-aguin}
 \clearpage
 
 \centerline{\Large\textbf{Too Many Jamies}}
@@ -1000,6 +1000,17 @@ Matt \& Charlotte
 \centerline{Dance special}
 \vspace{2\baselineskip}
 \abcinput[program={abcm2ps -O = -s 0.7}]{swedish-masquerade}
+\clearpage
+
+\centerline{\Large\textbf{Auld Lang Syne}}
+\centerline{Party trick}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7}]{auld-lang-syne}
+\vspace{2\baselineskip}
+\centerline{\Large\textbf{Happy Birthday}}
+\centerline{Party trick}
+\vspace{2\baselineskip}
+\abcinput[program={abcm2ps -O = -s 0.7}]{happy-birthday}
 \clearpage
 
 \end{document}

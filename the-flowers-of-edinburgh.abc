@@ -1,12 +1,11 @@
 X: 0
 T: The Flowers Of Edinburgh
 C: Trad
-O: Scotland
 R: country dance
 M: 4/4
 L: 1/8
 K: Gmaj
-|:GE|D2DE G2GA|BGBd cBAG|FGFE DEFG|AFdF E2GE|
-D2DE G2GA|BGBd efge|dcBA GFGA|B2 G2 G2:|
-|:d2|g2g2 gbag|f2f2 fagf|edef gfed|B2e2 e2ge|
-dBGB d2 d2|edef g2fe|dcBA GFGA|B2 G2 G2:|
+|:GE|"G"D2DE G2GA|BGBd cBAG|"D"FGFE DEFG|"C"AFdF E2GE|
+"G"D2DE G2GA|BGBd efge|"C"dcBA GFGA|"G"B2 G2 G2:|
+|:d2|"G"g2g2 gbag|"D"f2f2 fagf|"C"edef gfed|"Em"B2e2 e2ge|
+"G"dBGB d2 d2|"C"edef g2fe|"G"dcBA GFGA|B2 G2 G2:|

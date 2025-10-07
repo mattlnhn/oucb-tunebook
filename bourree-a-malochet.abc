@@ -6,7 +6,7 @@ O: France
 M: 2/4
 K: D
 |:\
-F4G4 | A6d2 | c3d e2c2 |[1 dcde f2d2 :| [2 dcded4 :|
-|: f3e d2f2 | e3d c2e2 | d3c B2G2 | A8 |\
-G3A B2G2 |1 F4 D2F2 | E3F1 G2E2 | F8 :|\
-           [2 F4 D2d2 | c3d e2c2 | d8 |]
+"D"F4G4 | A6d2 | c3d e2c2 |[1 dcde f2d2 :| [2 dcded4 :|
+|: "D"f3e d2f2 | "A"e3d c2e2 | "G"d3c B2G2 | "A"A8 |\
+"G"G3A B2G2 |1 "D"F4 D2F2 | "G"E3F1 G2E2 | "D"F8 :|\
+           [2 "D"F4 D2d2 | "G"c3d "A"e2c2 | "D"d8 |]

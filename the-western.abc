@@ -6,7 +6,7 @@ M: 4/4
 L: 1/8
 K: Cmaj
 Z: Matt Lenahan '25
-gf |: ec ~c2 GcEc | ec ~c2 GcEc | AF ~F2 CFA,F | GABc defg | 
-ec ~c2 GcEc | ec ~c2 GcEc | AF ~F2 CFA,F | GABd c2 gf :| 
-|: ~e2 ce gage | ~f2 df abaf | ~e2 ce agfe | dcBA G2 gf |
-~e2 ce gage | ~f2 df abaf | ~e2 ce ~d2 Bd | [1 ~c2 dB c2 gf :| [2 ~c2 dB c2 ||
+gf |: "C"ec ~c2 GcEc | ec ~c2 GcEc | "F"AF ~F2 CFA,F | GABc defg | 
+"C"ec ~c2 GcEc | ec ~c2 GcEc | "F"AF ~F2 CFA,F | "G"GABd "C"c2 gf :| 
+|: "C"~e2 ce gage | "F"~f2 df abaf | "C"~e2 ce agfe | "F"dcBA "G"G2 gf |
+"C"~e2 ce gage | "F"~f2 df abaf | "C"~e2 ce "F"~d2 Bd | [1 "C"~c2 dB c2 gf :| [2 "C"~c2 dB c2 ||

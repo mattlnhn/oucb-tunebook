@@ -388,13 +388,13 @@ epstopdf the-mouth-of-the-tobique.eps
 abcm2ps -O = -s 0.7   fleur-de-mandragore.abc 
 ps2eps -f fleur-de-mandragore.ps
 epstopdf fleur-de-mandragore.eps
-abcm2ps -O = -s 0.7   the-morayshire-farmers-club.abc 
+abcm2ps -O = -s 0.7 -d 40pt   the-morayshire-farmers-club.abc 
 ps2eps -f the-morayshire-farmers-club.ps
 epstopdf the-morayshire-farmers-club.eps
-abcm2ps -O = -s 0.7   the-bear-in-the-buckwheat.abc 
+abcm2ps -O = -s 0.7 -d 40pt   the-bear-in-the-buckwheat.abc 
 ps2eps -f the-bear-in-the-buckwheat.ps
 epstopdf the-bear-in-the-buckwheat.eps
-abcm2ps -O = -s 0.7   an-oidche-bha-na-gobhair-aguin.abc 
+abcm2ps -O = -s 0.7 -d 40pt   an-oidche-bha-na-gobhair-aguin.abc 
 ps2eps -f an-oidche-bha-na-gobhair-aguin.ps
 epstopdf an-oidche-bha-na-gobhair-aguin.eps
 abcm2ps -O = -s 0.7   jamie-hardie.abc 
@@ -631,3 +631,9 @@ epstopdf the-ceilidh-band-reel.eps
 abcm2ps -O = -s 0.7   swedish-masquerade.abc 
 ps2eps -f swedish-masquerade.ps
 epstopdf swedish-masquerade.eps
+abcm2ps -O = -s 0.7   auld-lang-syne.abc 
+ps2eps -f auld-lang-syne.ps
+epstopdf auld-lang-syne.eps
+abcm2ps -O = -s 0.7   happy-birthday.abc 
+ps2eps -f happy-birthday.ps
+epstopdf happy-birthday.eps
